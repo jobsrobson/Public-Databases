@@ -1,3 +1,4 @@
+
 Análise Exploratória
 ============
 Candidatos das Eleições Gerais de 2014 e 2018 no Brasil
