@@ -1,4 +1,4 @@
-Public repository
+General Files
 =================================
 
-For training purposes only.
+For training purposes.
