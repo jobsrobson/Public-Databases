@@ -2178,7 +2178,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1948,1949,21,ACTOR,Lew Ayres,Johnny Belinda,False
 1948,1949,21,ACTOR,Montgomery Clift,The Search,False
 1948,1949,21,ACTOR,Dan Dailey,When My Baby Smiles at Me,False
-1948,1949,21,ACTOR,Laurence Olivier,Hamlet,True
+1948,1949,21,ACTOR,Laurence Olivier,Hamlet (1948),True
 1948,1949,21,ACTOR,Clifton Webb,Sitting Pretty,False
 1948,1949,21,ACTOR IN A SUPPORTING ROLE,Charles Bickford,Johnny Belinda,False
 1948,1949,21,ACTOR IN A SUPPORTING ROLE,José Ferrer,Joan of Arc,False
@@ -2193,9 +2193,9 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1948,1949,21,ACTRESS IN A SUPPORTING ROLE,Barbara Bel Geddes,I Remember Mama,False
 1948,1949,21,ACTRESS IN A SUPPORTING ROLE,Ellen Corby,I Remember Mama,False
 1948,1949,21,ACTRESS IN A SUPPORTING ROLE,Agnes Moorehead,Johnny Belinda,False
-1948,1949,21,ACTRESS IN A SUPPORTING ROLE,Jean Simmons,Hamlet,False
+1948,1949,21,ACTRESS IN A SUPPORTING ROLE,Jean Simmons,Hamlet (1948),False
 1948,1949,21,ACTRESS IN A SUPPORTING ROLE,Claire Trevor,Key Largo,True
-1948,1949,21,ART DIRECTION (Black-and-White),Art Direction:  Roger K. Furse;  Set Decoration:  Carmen Dillon,Hamlet,True
+1948,1949,21,ART DIRECTION (Black-and-White),Art Direction:  Roger K. Furse;  Set Decoration:  Carmen Dillon,Hamlet (1948),True
 1948,1949,21,ART DIRECTION (Black-and-White),Art Direction:  Robert Haas;  Set Decoration:  William Wallace,Johnny Belinda,False
 1948,1949,21,ART DIRECTION (Color),"Art Direction:  Richard Day;  Set Decoration:  Edwin Casey Roberts, Joseph Kish",Joan of Arc,False
 1948,1949,21,ART DIRECTION (Color),Art Direction:  Hein Heckroth;  Set Decoration:  Arthur Lawson,The Red Shoes,True
@@ -2209,10 +2209,10 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1948,1949,21,CINEMATOGRAPHY (Color),William Snyder,The Loves of Carmen,False
 1948,1949,21,CINEMATOGRAPHY (Color),Robert Planck,The Three Musketeers,False
 1948,1949,21,COSTUME DESIGN (Black-and-White),Irene,B. F.'s Daughter,False
-1948,1949,21,COSTUME DESIGN (Black-and-White),Roger K. Furse,Hamlet,True
+1948,1949,21,COSTUME DESIGN (Black-and-White),Roger K. Furse,Hamlet (1948),True
 1948,1949,21,COSTUME DESIGN (Color),"Edith Head, Gile Steele",The Emperor Waltz,False
 1948,1949,21,COSTUME DESIGN (Color),"Dorothy Jeakins, Karinska",Joan of Arc,True
-1948,1949,21,DIRECTING,Laurence Olivier,Hamlet,False
+1948,1949,21,DIRECTING,Laurence Olivier,Hamlet (1948),False
 1948,1949,21,DIRECTING,Jean Negulesco,Johnny Belinda,False
 1948,1949,21,DIRECTING,Fred Zinnemann,The Search,False
 1948,1949,21,DIRECTING,Anatole Litvak,The Snake Pit,False
@@ -2227,7 +2227,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1948,1949,21,FILM EDITING,Paul Weatherwax,The Naked City,True
 1948,1949,21,FILM EDITING,Christian Nyby,Red River,False
 1948,1949,21,FILM EDITING,Reginald Mills,The Red Shoes,False
-1948,1949,21,MUSIC (Music Score of a Dramatic or Comedy Picture),William Walton,Hamlet,False
+1948,1949,21,MUSIC (Music Score of a Dramatic or Comedy Picture),William Walton,Hamlet (1948),False
 1948,1949,21,MUSIC (Music Score of a Dramatic or Comedy Picture),Hugo Friedhofer,Joan of Arc,False
 1948,1949,21,MUSIC (Music Score of a Dramatic or Comedy Picture),Max Steiner,Johnny Belinda,False
 1948,1949,21,MUSIC (Music Score of a Dramatic or Comedy Picture),Brian Easdale,The Red Shoes,True
@@ -2242,7 +2242,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1948,1949,21,MUSIC (Song),Music by Jule Styne; Lyrics by Sammy Cahn,Romance on the High Seas,False
 1948,1949,21,MUSIC (Song),Music by Frederick Hollander; Lyrics by Leo Robin,That Lady in Ermine,False
 1948,1949,21,MUSIC (Song),Music and Lyrics by Ramey Idriss and George Tibbles,Wet Blanket Policy,False
-1948,1949,21,BEST MOTION PICTURE,J. Arthur Rank-Two Cities Films,Hamlet,True
+1948,1949,21,BEST MOTION PICTURE,J. Arthur Rank-Two Cities Films,Hamlet (1948),True
 1948,1949,21,BEST MOTION PICTURE,Warner Bros.,Johnny Belinda,False
 1948,1949,21,BEST MOTION PICTURE,J. Arthur Rank-Archers,The Red Shoes,False
 1948,1949,21,BEST MOTION PICTURE,20th Century-Fox,The Snake Pit,False
@@ -6912,7 +6912,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1990,1991,63,ART DIRECTION,Art Direction:  Jeffrey Beecroft;  Set Decoration:  Lisa Dean,Dances With Wolves,False
 1990,1991,63,ART DIRECTION,Art Direction:  Richard Sylbert;  Set Decoration:  Rick Simpson,Dick Tracy,True
 1990,1991,63,ART DIRECTION,Art Direction:  Dean Tavoularis;  Set Decoration:  Gary Fettis,"The Godfather, Part III",False
-1990,1991,63,ART DIRECTION,Art Direction:  Dante Ferretti;  Set Decoration:  Francesca Lo Schiavo,Hamlet,False
+1990,1991,63,ART DIRECTION,Art Direction:  Dante Ferretti;  Set Decoration:  Francesca Lo Schiavo,Hamlet (1990),False
 1990,1991,63,CINEMATOGRAPHY,Allen Daviau,Avalon,False
 1990,1991,63,CINEMATOGRAPHY,Dean Semler,Dances With Wolves,True
 1990,1991,63,CINEMATOGRAPHY,Vittorio Storaro,Dick Tracy,False
@@ -6922,7 +6922,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1990,1991,63,COSTUME DESIGN,Franca Squarciapino,Cyrano de Bergerac,True
 1990,1991,63,COSTUME DESIGN,Elsa Zamparelli,Dances With Wolves,False
 1990,1991,63,COSTUME DESIGN,Milena Canonero,Dick Tracy,False
-1990,1991,63,COSTUME DESIGN,Maurizio Millenotti,Hamlet,False
+1990,1991,63,COSTUME DESIGN,Maurizio Millenotti,Hamlet (1990),False
 1990,1991,63,DIRECTING,Kevin Costner,Dances With Wolves,True
 1990,1991,63,DIRECTING,Francis Ford Coppola,"The Godfather, Part III",False
 1990,1991,63,DIRECTING,Martin Scorsese,Good Fellas,False
@@ -7575,7 +7575,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1996,1997,69,ART DIRECTION,Art Direction:  Bo Welch;  Set Decoration:  Cheryl Carasik,The Birdcage,False
 1996,1997,69,ART DIRECTION,Art Direction:  Stuart Craig;  Set Decoration:  Stephenie McMillan,The English Patient,True
 1996,1997,69,ART DIRECTION,Art Direction:  Brian Morris;  Set Decoration:  Philippe Turlure,Evita,False
-1996,1997,69,ART DIRECTION,Tim Harvey,Hamlet,False
+1996,1997,69,ART DIRECTION,Tim Harvey,Hamlet (1996),False
 1996,1997,69,ART DIRECTION,Art Direction:  Catherine Martin;  Set Decoration:  Brigitte Broch,William Shakespeare's Romeo & Juliet,False
 1996,1997,69,CINEMATOGRAPHY,John Seale,The English Patient,True
 1996,1997,69,CINEMATOGRAPHY,Darius Khondji,Evita,False
@@ -7585,7 +7585,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1996,1997,69,COSTUME DESIGN,Paul Brown,Angels and Insects,False
 1996,1997,69,COSTUME DESIGN,Ruth Myers,Emma,False
 1996,1997,69,COSTUME DESIGN,Ann Roth,The English Patient,True
-1996,1997,69,COSTUME DESIGN,Alex Byrne,Hamlet,False
+1996,1997,69,COSTUME DESIGN,Alex Byrne,Hamlet (1996),False
 1996,1997,69,COSTUME DESIGN,Janet Patterson,The Portrait of a Lady,False
 1996,1997,69,DIRECTING,Anthony Minghella,The English Patient,True
 1996,1997,69,DIRECTING,Joel Coen,Fargo,False
@@ -7616,7 +7616,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1996,1997,69,MAKEUP,"Rick Baker, David LeRoy Anderson",The Nutty Professor,True
 1996,1997,69,MAKEUP,"Michael Westmore, Scott Wheeler, Jake Garber",Star Trek: First Contact,False
 1996,1997,69,MUSIC (Original Dramatic Score),Gabriel Yared,The English Patient,True
-1996,1997,69,MUSIC (Original Dramatic Score),Patrick Doyle,Hamlet,False
+1996,1997,69,MUSIC (Original Dramatic Score),Patrick Doyle,Hamlet (1996),False
 1996,1997,69,MUSIC (Original Dramatic Score),Elliot Goldenthal,Michael Collins,False
 1996,1997,69,MUSIC (Original Dramatic Score),David Hirschfelder,Shine,False
 1996,1997,69,MUSIC (Original Dramatic Score),John Williams,Sleepers,False
@@ -7657,7 +7657,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1996,1997,69,VISUAL EFFECTS,"Stefen Fangmeier, John Frazier, Habib Zargarpour, Henry La Bounta",Twister,False
 1996,1997,69,WRITING (Screenplay Based on Material Previously Produced or Published),Arthur Miller,The Crucible,False
 1996,1997,69,WRITING (Screenplay Based on Material Previously Produced or Published),Anthony Minghella,The English Patient,False
-1996,1997,69,WRITING (Screenplay Based on Material Previously Produced or Published),Kenneth Branagh,Hamlet,False
+1996,1997,69,WRITING (Screenplay Based on Material Previously Produced or Published),Kenneth Branagh,Hamlet (1996),False
 1996,1997,69,WRITING (Screenplay Based on Material Previously Produced or Published),Billy Bob Thornton,Sling Blade,True
 1996,1997,69,WRITING (Screenplay Based on Material Previously Produced or Published),John Hodge,Trainspotting,False
 1996,1997,69,WRITING (Screenplay Written Directly for the Screen),"Ethan Coen, Joel Coen",Fargo,True
