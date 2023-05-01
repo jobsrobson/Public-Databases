@@ -4671,7 +4671,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1969,1970,42,ACTOR,Dustin Hoffman,Midnight Cowboy,False
 1969,1970,42,ACTOR,Peter O'Toole,"Goodbye, Mr. Chips",False
 1969,1970,42,ACTOR,Jon Voight,Midnight Cowboy,False
-1969,1970,42,ACTOR,John Wayne,True Grit,True
+1969,1970,42,ACTOR,John Wayne,True Grit (1969),True
 1969,1970,42,ACTOR IN A SUPPORTING ROLE,Rupert Crosse,The Reivers,False
 1969,1970,42,ACTOR IN A SUPPORTING ROLE,Elliott Gould,Bob & Carol & Ted & Alice,False
 1969,1970,42,ACTOR IN A SUPPORTING ROLE,Jack Nicholson,Easy Rider,False
@@ -4740,7 +4740,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1969,1970,42,MUSIC (Song--Original for the Picture),Music by Fred Karlin; Lyrics by Dory Previn,The Sterile Cuckoo,False
 1969,1970,42,MUSIC (Song--Original for the Picture),Music and Lyrics by Rod McKuen,The Prime of Miss Jean Brodie,False
 1969,1970,42,MUSIC (Song--Original for the Picture),Music by Burt Bacharach; Lyrics by Hal David,Butch Cassidy and the Sundance Kid,True
-1969,1970,42,MUSIC (Song--Original for the Picture),Music by Elmer Bernstein; Lyrics by Don Black,True Grit,False
+1969,1970,42,MUSIC (Song--Original for the Picture),Music by Elmer Bernstein; Lyrics by Don Black,True Grit (1969),False
 1969,1970,42,MUSIC (Song--Original for the Picture),Music by Michel Legrand; Lyrics by Alan Bergman and Marilyn Bergman,The Happy Ending,False
 1969,1970,42,BEST PICTURE,"Hal B. Wallis, Producer",Anne of the Thousand Days,False
 1969,1970,42,BEST PICTURE,"John Foreman, Producer",Butch Cassidy and the Sundance Kid,False
@@ -9142,7 +9142,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2009,2010,82,HONORARY AWARD, Gordon Willis for unsurpassed mastery of light,,True
 2009,2010,82,IRVING G. THALBERG MEMORIAL AWARD,John Calley,,True
 2010,2011,83,ACTOR IN A LEADING ROLE,Javier Bardem,Biutiful,False
-2010,2011,83,ACTOR IN A LEADING ROLE,Jeff Bridges,True Grit,False
+2010,2011,83,ACTOR IN A LEADING ROLE,Jeff Bridges,True Grit (2010),False
 2010,2011,83,ACTOR IN A LEADING ROLE,Jesse Eisenberg,The Social Network,False
 2010,2011,83,ACTOR IN A LEADING ROLE,Colin Firth,The King's Speech,True
 2010,2011,83,ACTOR IN A LEADING ROLE,James Franco,127 Hours,False
@@ -9159,7 +9159,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2010,2011,83,ACTRESS IN A SUPPORTING ROLE,Amy Adams,The Fighter,False
 2010,2011,83,ACTRESS IN A SUPPORTING ROLE,Helena Bonham Carter,The King's Speech,False
 2010,2011,83,ACTRESS IN A SUPPORTING ROLE,Melissa Leo,The Fighter,True
-2010,2011,83,ACTRESS IN A SUPPORTING ROLE,Hailee Steinfeld,True Grit,False
+2010,2011,83,ACTRESS IN A SUPPORTING ROLE,Hailee Steinfeld,True Grit (2010),False
 2010,2011,83,ACTRESS IN A SUPPORTING ROLE,Jacki Weaver,Animal Kingdom,False
 2010,2011,83,ANIMATED FEATURE FILM,Chris Sanders and Dean DeBlois,How to Train Your Dragon,False
 2010,2011,83,ANIMATED FEATURE FILM,Sylvain Chomet,The Illusionist,False
@@ -9168,22 +9168,22 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2010,2011,83,ART DIRECTION,Production Design: Stuart Craig; Set Decoration: Stephenie McMillan,Harry Potter and the Deathly Hallows Part 1,False
 2010,2011,83,ART DIRECTION,Production Design: Guy Hendrix Dyas; Set Decoration: Larry Dias and Doug Mowat,Inception,False
 2010,2011,83,ART DIRECTION,Production Design: Eve Stewart; Set Decoration: Judy Farr,The King's Speech,False
-2010,2011,83,ART DIRECTION,Production Design: Jess Gonchor; Set Decoration: Nancy Haigh,True Grit,False
+2010,2011,83,ART DIRECTION,Production Design: Jess Gonchor; Set Decoration: Nancy Haigh,True Grit (2010),False
 2010,2011,83,CINEMATOGRAPHY,Matthew Libatique,Black Swan,False
 2010,2011,83,CINEMATOGRAPHY,Wally Pfister,Inception,True
 2010,2011,83,CINEMATOGRAPHY,Danny Cohen,The King's Speech,False
 2010,2011,83,CINEMATOGRAPHY,Jeff Cronenweth,The Social Network,False
-2010,2011,83,CINEMATOGRAPHY,Roger Deakins,True Grit,False
+2010,2011,83,CINEMATOGRAPHY,Roger Deakins,True Grit (2010),False
 2010,2011,83,COSTUME DESIGN,Colleen Atwood,Alice in Wonderland,True
 2010,2011,83,COSTUME DESIGN,Antonella Cannarozzi,I Am Love,False
 2010,2011,83,COSTUME DESIGN,Jenny Beavan,The King's Speech,False
 2010,2011,83,COSTUME DESIGN,Sandy Powell,The Tempest,False
-2010,2011,83,COSTUME DESIGN,Mary Zophres,True Grit,False
+2010,2011,83,COSTUME DESIGN,Mary Zophres,True Grit (2010),False
 2010,2011,83,DIRECTING,Darren Aronofsky,Black Swan,False
 2010,2011,83,DIRECTING,David O. Russell,The Fighter,False
 2010,2011,83,DIRECTING,Tom Hooper,The King's Speech,True
 2010,2011,83,DIRECTING,David Fincher,The Social Network,False
-2010,2011,83,DIRECTING,Joel Coen and Ethan Coen,True Grit,False
+2010,2011,83,DIRECTING,Joel Coen and Ethan Coen,True Grit (2010),False
 2010,2011,83,DOCUMENTARY (Feature),Banksy and Jaimie D'Cruz,Exit through the Gift Shop,False
 2010,2011,83,DOCUMENTARY (Feature),Josh Fox and Trish Adlesic,Gasland,False
 2010,2011,83,DOCUMENTARY (Feature),Charles Ferguson and Audrey Marrs,Inside Job,True
@@ -9224,7 +9224,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2010,2011,83,BEST PICTURE,"Christian Colson, Danny Boyle and John Smithson, Producers",127 Hours,False
 2010,2011,83,BEST PICTURE,"Scott Rudin, Dana Brunetti, Michael De Luca and Ceán Chaffin, Producers",The Social Network,False
 2010,2011,83,BEST PICTURE,"Darla K. Anderson, Producer",Toy Story 3,False
-2010,2011,83,BEST PICTURE,"Scott Rudin, Ethan Coen and Joel Coen, Producers",True Grit,False
+2010,2011,83,BEST PICTURE,"Scott Rudin, Ethan Coen and Joel Coen, Producers",True Grit (2010),False
 2010,2011,83,BEST PICTURE,"Anne Rosellini and Alix Madigan-Yorkin, Producers",Winter's Bone,False
 2010,2011,83,SHORT FILM (Animated),Teddy Newton,Day & Night,False
 2010,2011,83,SHORT FILM (Animated),Jakob Schuh and Max Lang,The Gruffalo,False
@@ -9239,13 +9239,13 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2010,2011,83,SOUND EDITING,Richard King,Inception,True
 2010,2011,83,SOUND EDITING,Tom Myers and Michael Silvers,Toy Story 3,False
 2010,2011,83,SOUND EDITING,Gwendolyn Yates Whittle and Addison Teague,Tron: Legacy,False
-2010,2011,83,SOUND EDITING,Skip Lievsay and Craig Berkey,True Grit,False
+2010,2011,83,SOUND EDITING,Skip Lievsay and Craig Berkey,True Grit (2010),False
 2010,2011,83,SOUND EDITING,Mark P. Stoeckinger,Unstoppable,False
 2010,2011,83,SOUND MIXING,"Lora Hirschberg, Gary A. Rizzo and Ed Novick",Inception,True
 2010,2011,83,SOUND MIXING,"Paul Hamblin, Martin Jensen and John Midgley",The King's Speech,False
 2010,2011,83,SOUND MIXING,"Jeffrey J. Haboush, Greg P. Russell, Scott Millan and William Sarokin",Salt,False
 2010,2011,83,SOUND MIXING,"Ren Klyce, David Parker, Michael Semanick and Mark Weingarten",The Social Network,False
-2010,2011,83,SOUND MIXING,"Skip Lievsay, Craig Berkey, Greg Orloff and Peter F. Kurland",True Grit,False
+2010,2011,83,SOUND MIXING,"Skip Lievsay, Craig Berkey, Greg Orloff and Peter F. Kurland",True Grit (2010),False
 2010,2011,83,VISUAL EFFECTS,"Ken Ralston, David Schaub, Carey Villegas and Sean Phillips",Alice in Wonderland,False
 2010,2011,83,VISUAL EFFECTS,"Tim Burke, John Richardson, Christian Manz and Nicolas Aithadi",Harry Potter and the Deathly Hallows Part 1,False
 2010,2011,83,VISUAL EFFECTS,"Michael Owens, Bryan Grill, Stephan Trojansky and Joe Farrell",Hereafter,False
@@ -9254,7 +9254,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2010,2011,83,WRITING (Adapted Screenplay),Screenplay by Danny Boyle & Simon Beaufoy,127 Hours,False
 2010,2011,83,WRITING (Adapted Screenplay),Screenplay by Aaron Sorkin,The Social Network,True
 2010,2011,83,WRITING (Adapted Screenplay),"Screenplay by Michael Arndt; Story by John Lasseter, Andrew Stanton and Lee Unkrich",Toy Story 3,False
-2010,2011,83,WRITING (Adapted Screenplay),Written for the screen by Joel Coen & Ethan Coen,True Grit,False
+2010,2011,83,WRITING (Adapted Screenplay),Written for the screen by Joel Coen & Ethan Coen,True Grit (2010),False
 2010,2011,83,WRITING (Adapted Screenplay),Adapted for the screen by Debra Granik & Anne Rosellini,Winter's Bone,False
 2010,2011,83,WRITING (Original Screenplay),Written by Mike Leigh,Another Year,False
 2010,2011,83,WRITING (Original Screenplay),Screenplay by Scott Silver and Paul Tamasy & Eric Johnson; Story by Keith Dorrington & Paul Tamasy & Eric Johnson,The Fighter,False
