@@ -522,7 +522,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1936,1937,9,SPECIAL AWARD, The March of Time for its significance to motion pictures and for having revolutionized one of the most important branches of the industry - the newsreel.,,True
 1936,1937,9,SPECIAL AWARD, W. Howard Greene and Harold Rosson for the color cinematography of the Selznick International Production,,True
 1937,1938,10,ACTOR,Charles Boyer,Conquest,False
-1937,1938,10,ACTOR,Fredric March,A Star Is Born,False
+1937,1938,10,ACTOR,Fredric March,A Star Is Born (1937),False
 1937,1938,10,ACTOR,Robert Montgomery,Night Must Fall,False
 1937,1938,10,ACTOR,Paul Muni,The Life of Emile Zola,False
 1937,1938,10,ACTOR,Spencer Tracy,Captains Courageous,True
@@ -533,7 +533,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1937,1938,10,ACTOR IN A SUPPORTING ROLE,Roland Young,Topper,False
 1937,1938,10,ACTRESS,Irene Dunne,The Awful Truth,False
 1937,1938,10,ACTRESS,Greta Garbo,Camille,False
-1937,1938,10,ACTRESS,Janet Gaynor,A Star Is Born,False
+1937,1938,10,ACTRESS,Janet Gaynor,A Star Is Born (1937),False
 1937,1938,10,ACTRESS,Luise Rainer,The Good Earth,True
 1937,1938,10,ACTRESS,Barbara Stanwyck,Stella Dallas,False
 1937,1938,10,ACTRESS IN A SUPPORTING ROLE,Alice Brady,In Old Chicago,True
@@ -557,7 +557,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1937,1938,10,ASSISTANT DIRECTOR,Russ Saunders,The Life of Emile Zola,False
 1937,1938,10,ASSISTANT DIRECTOR,"C. C. Coleman, Jr.",Lost Horizon,False
 1937,1938,10,ASSISTANT DIRECTOR,Hal Walker,Souls at Sea,False
-1937,1938,10,ASSISTANT DIRECTOR,Eric Stacey,A Star Is Born,False
+1937,1938,10,ASSISTANT DIRECTOR,Eric Stacey,A Star Is Born (1937),False
 1937,1938,10,CINEMATOGRAPHY,Gregg Toland,Dead End,False
 1937,1938,10,CINEMATOGRAPHY,Karl Freund,The Good Earth,True
 1937,1938,10,CINEMATOGRAPHY,Joseph Valentine,Wings over Honolulu,False
@@ -572,7 +572,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1937,1938,10,DIRECTING,Sidney Franklin,The Good Earth,False
 1937,1938,10,DIRECTING,William Dieterle,The Life of Emile Zola,False
 1937,1938,10,DIRECTING,Gregory La Cava,Stage Door,False
-1937,1938,10,DIRECTING,William Wellman,A Star Is Born,False
+1937,1938,10,DIRECTING,William Wellman,A Star Is Born (1937),False
 1937,1938,10,FILM EDITING,Al Clark,The Awful Truth,False
 1937,1938,10,FILM EDITING,Elmo Veron,Captains Courageous,False
 1937,1938,10,FILM EDITING,Basil Wrangell,The Good Earth,False
@@ -606,7 +606,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1937,1938,10,OUTSTANDING PRODUCTION,Columbia,Lost Horizon,False
 1937,1938,10,OUTSTANDING PRODUCTION,Universal,One Hundred Men and a Girl,False
 1937,1938,10,OUTSTANDING PRODUCTION,RKO Radio,Stage Door,False
-1937,1938,10,OUTSTANDING PRODUCTION,Selznick International Pictures,A Star Is Born,False
+1937,1938,10,OUTSTANDING PRODUCTION,Selznick International Pictures,A Star Is Born (1937),False
 1937,1938,10,SHORT SUBJECT (Cartoon),Paramount,Educated Fish,False
 1937,1938,10,SHORT SUBJECT (Cartoon),"Charles Mintz, Producer",The Little Match Girl,False
 1937,1938,10,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",The Old Mill,True
@@ -633,16 +633,16 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1937,1938,10,WRITING (Original Story),Niven Busch,In Old Chicago,False
 1937,1938,10,WRITING (Original Story),"Heinz Herald, Geza Herczeg",The Life of Emile Zola,False
 1937,1938,10,WRITING (Original Story),Hans Kraly,One Hundred Men and a Girl,False
-1937,1938,10,WRITING (Original Story),"William A. Wellman, Robert Carson",A Star Is Born,True
+1937,1938,10,WRITING (Original Story),"William A. Wellman, Robert Carson",A Star Is Born (1937),True
 1937,1938,10,WRITING (Screenplay),Vina Delmar,The Awful Truth,False
 1937,1938,10,WRITING (Screenplay),"John Lee Mahin, Marc Connelly, Dale Van Every",Captains Courageous,False
 1937,1938,10,WRITING (Screenplay),"Norman Reilly Raine, Heinz Herald, Geza Herczeg",The Life of Emile Zola,True
 1937,1938,10,WRITING (Screenplay),"Morris Ryskind, Anthony Veiller",Stage Door,False
-1937,1938,10,WRITING (Screenplay),"Dorothy Parker, Alan Campbell, Robert Carson",A Star Is Born,False
+1937,1938,10,WRITING (Screenplay),"Dorothy Parker, Alan Campbell, Robert Carson",A Star Is Born (1937),False
 1937,1938,10,SPECIAL AWARD, Mack Sennett,,True
 1937,1938,10,SPECIAL AWARD, Edgar Bergen for his outstanding comedy creation,,True
 1937,1938,10,SPECIAL AWARD, The Museum of Modern Art Film Library for its significant work in collecting films dating from 1895 to the present and for the first time making available to the public the means of studying the historical and aesthetic development of the motion picture as one of the major arts.,,True
-1937,1938,10,SPECIAL AWARD, W. Howard Greene for the color photography of A Star Is Born.  (This Award was recommended by a committee of leading cinematographers after viewing all the color pictures made during the year.),,True
+1937,1938,10,SPECIAL AWARD, W. Howard Greene for the color photography of A Star Is Born (1937).  (This Award was recommended by a committee of leading cinematographers after viewing all the color pictures made during the year.),,True
 1937,1938,10,IRVING G. THALBERG MEMORIAL AWARD,Darryl F. Zanuck,,True
 1938,1939,11,ACTOR,Charles Boyer,Algiers,False
 1938,1939,11,ACTOR,James Cagney,Angels with Dirty Faces,False
@@ -2887,7 +2887,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1954,1955,27,ACTOR,Humphrey Bogart,The Caine Mutiny,False
 1954,1955,27,ACTOR,Marlon Brando,On the Waterfront,True
 1954,1955,27,ACTOR,Bing Crosby,The Country Girl,False
-1954,1955,27,ACTOR,James Mason,A Star Is Born,False
+1954,1955,27,ACTOR,James Mason,A Star Is Born (1954),False
 1954,1955,27,ACTOR,Dan O'Herlihy,Adventures of Robinson Crusoe,False
 1954,1955,27,ACTOR IN A SUPPORTING ROLE,Lee J. Cobb,On the Waterfront,False
 1954,1955,27,ACTOR IN A SUPPORTING ROLE,Karl Malden,On the Waterfront,False
@@ -2895,7 +2895,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1954,1955,27,ACTOR IN A SUPPORTING ROLE,Rod Steiger,On the Waterfront,False
 1954,1955,27,ACTOR IN A SUPPORTING ROLE,Tom Tully,The Caine Mutiny,False
 1954,1955,27,ACTRESS,Dorothy Dandridge,Carmen Jones,False
-1954,1955,27,ACTRESS,Judy Garland,A Star Is Born,False
+1954,1955,27,ACTRESS,Judy Garland,A Star Is Born (1954),False
 1954,1955,27,ACTRESS,Audrey Hepburn,Sabrina,False
 1954,1955,27,ACTRESS,Grace Kelly,The Country Girl,True
 1954,1955,27,ACTRESS,Jane Wyman,Magnificent Obsession,False
@@ -2912,7 +2912,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1954,1955,27,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Preston Ames;  Set Decoration:  Edwin B. Willis, Keogh Gleason",Brigadoon,False
 1954,1955,27,ART DIRECTION (Color),"Art Direction:  Lyle Wheeler, Leland Fuller;  Set Decoration:  Walter M. Scott, Paul S. Fox",Desiree,False
 1954,1955,27,ART DIRECTION (Color),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Sam Comer, Ray Moyer",Red Garters,False
-1954,1955,27,ART DIRECTION (Color),"Art Direction:  Malcolm Bert, Gene Allen, Irene Sharaff;  Set Decoration:  George James Hopkins",A Star Is Born,False
+1954,1955,27,ART DIRECTION (Color),"Art Direction:  Malcolm Bert, Gene Allen, Irene Sharaff;  Set Decoration:  George James Hopkins",A Star Is Born (1954),False
 1954,1955,27,ART DIRECTION (Color),Art Direction:  John Meehan;  Set Decoration:  Emile Kuri,"20,000 Leagues under the Sea",True
 1954,1955,27,CINEMATOGRAPHY (Black-and-White),John F. Warren,The Country Girl,False
 1954,1955,27,CINEMATOGRAPHY (Black-and-White),George Folsey,Executive Suite,False
@@ -2932,7 +2932,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1954,1955,27,COSTUME DESIGN (Color),Irene Sharaff,Brigadoon,False
 1954,1955,27,COSTUME DESIGN (Color),"Charles LeMaire, René Hubert",Desiree,False
 1954,1955,27,COSTUME DESIGN (Color),Sanzo Wada,Gate of Hell,True
-1954,1955,27,COSTUME DESIGN (Color),"Jean Louis, Mary Ann Nyberg, Irene Sharaff",A Star Is Born,False
+1954,1955,27,COSTUME DESIGN (Color),"Jean Louis, Mary Ann Nyberg, Irene Sharaff",A Star Is Born (1954),False
 1954,1955,27,COSTUME DESIGN (Color),"Charles LeMaire, Travilla, Miles White",There's No Business Like Show Business,False
 1954,1955,27,DIRECTING,George Seaton,The Country Girl,False
 1954,1955,27,DIRECTING,William Wellman,The High and the Mighty,False
@@ -2957,12 +2957,12 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1954,1955,27,MUSIC (Scoring of a Musical Picture),Herschel Burke Gilbert,Carmen Jones,False
 1954,1955,27,MUSIC (Scoring of a Musical Picture),"Joseph Gershenson, Henry Mancini",The Glenn Miller Story,False
 1954,1955,27,MUSIC (Scoring of a Musical Picture),"Adolph Deutsch, Saul Chaplin",Seven Brides for Seven Brothers,True
-1954,1955,27,MUSIC (Scoring of a Musical Picture),Ray Heindorf,A Star Is Born,False
+1954,1955,27,MUSIC (Scoring of a Musical Picture),Ray Heindorf,A Star Is Born (1954),False
 1954,1955,27,MUSIC (Scoring of a Musical Picture),"Alfred Newman, Lionel Newman",There's No Business Like Show Business,False
 1954,1955,27,MUSIC (Song),Music and Lyrics by Irving Berlin,White Christmas,False
 1954,1955,27,MUSIC (Song),Music by Dimitri Tiomkin; Lyrics by Ned Washington,The High and the Mighty,False
 1954,1955,27,MUSIC (Song),Music and Lyrics by Jack Lawrence and Richard Myers,Susan Slept Here,False
-1954,1955,27,MUSIC (Song),Music by Harold Arlen; Lyrics by Ira Gershwin,A Star Is Born,False
+1954,1955,27,MUSIC (Song),Music by Harold Arlen; Lyrics by Ira Gershwin,A Star Is Born (1954),False
 1954,1955,27,MUSIC (Song),Music by Jule Styne; Lyrics by Sammy Cahn,Three Coins in the Fountain,True
 1954,1955,27,BEST MOTION PICTURE,"Stanley Kramer, Producer",The Caine Mutiny,False
 1954,1955,27,BEST MOTION PICTURE,"William Perlberg, Producer",The Country Girl,False
@@ -5433,7 +5433,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1976,1977,49,CINEMATOGRAPHY,Richard H. Kline,King Kong,False
 1976,1977,49,CINEMATOGRAPHY,Ernest Laszlo,Logan's Run,False
 1976,1977,49,CINEMATOGRAPHY,Owen Roizman,Network,False
-1976,1977,49,CINEMATOGRAPHY,Robert Surtees,A Star Is Born,False
+1976,1977,49,CINEMATOGRAPHY,Robert Surtees,A Star Is Born (1976),False
 1976,1977,49,COSTUME DESIGN,William Theiss,Bound for Glory,False
 1976,1977,49,COSTUME DESIGN,Danilo Donati,Fellini's Casanova,True
 1976,1977,49,COSTUME DESIGN,Anthony Mendleson,The Incredible Sarah,False
@@ -5471,11 +5471,11 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1976,1977,49,MUSIC (Original Score),Lalo Schifrin,Voyage of the Damned,False
 1976,1977,49,MUSIC (Original Song Score and Its Adaptation or Adaptation Score),Adaptation Score by Leonard Rosenman,Bound for Glory,True
 1976,1977,49,MUSIC (Original Song Score and Its Adaptation or Adaptation Score),Song Score and Adaptation Score by Paul Williams,Bugsy Malone,False
-1976,1977,49,MUSIC (Original Song Score and Its Adaptation or Adaptation Score),Adaptation Score by Roger Kellaway,A Star Is Born,False
+1976,1977,49,MUSIC (Original Song Score and Its Adaptation or Adaptation Score),Adaptation Score by Roger Kellaway,A Star Is Born (1976),False
 1976,1977,49,MUSIC (Original Song),Music by Sammy Fain; Lyrics by Paul Francis Webster,Half a House,False
 1976,1977,49,MUSIC (Original Song),Music and Lyrics by Jerry Goldsmith,The Omen,False
 1976,1977,49,MUSIC (Original Song),Music by Henry Mancini; Lyrics by Don Black,The Pink Panther Strikes Again,False
-1976,1977,49,MUSIC (Original Song),Music by Barbra Streisand; Lyrics by Paul Williams,A Star Is Born,True
+1976,1977,49,MUSIC (Original Song),Music by Barbra Streisand; Lyrics by Paul Williams,A Star Is Born (1976),True
 1976,1977,49,MUSIC (Original Song),Music by Bill Conti; Lyrics by Carol Connors and Ayn Robbins,Rocky,False
 1976,1977,49,BEST PICTURE,"Walter Coblenz, Producer",All the President's Men,False
 1976,1977,49,BEST PICTURE,"Robert F. Blumofe and Harold Leventhal, Producers",Bound for Glory,False
@@ -5494,7 +5494,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1976,1977,49,SOUND,"Harry Warren Tetrick, William McCaughey, Aaron Rochin, Jack Solomon",King Kong,False
 1976,1977,49,SOUND,"Harry Warren Tetrick, William McCaughey, Lyle Burbridge, Bud Alper",Rocky,False
 1976,1977,49,SOUND,"Donald Mitchell, Douglas Williams, Richard Tyler, Hal Etherington",Silver Streak,False
-1976,1977,49,SOUND,"Robert Knudson, Dan Wallin, Robert Glass, Tom Overton",A Star Is Born,False
+1976,1977,49,SOUND,"Robert Knudson, Dan Wallin, Robert Glass, Tom Overton",A Star Is Born (1976),False
 1976,1977,49,WRITING (Screenplay--based on material from another medium),William Goldman,All the President's Men,True
 1976,1977,49,WRITING (Screenplay--based on material from another medium),Robert Getchell,Bound for Glory,False
 1976,1977,49,WRITING (Screenplay--based on material from another medium),"Federico Fellini, Bernardino Zapponi",Fellini's Casanova,False
@@ -10142,19 +10142,19 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2017,2018,90,HONORARY AWARD, Donald Sutherland for a lifetime of indelible characters,,True
 2017,2018,90,HONORARY AWARD, Agnès Varda,,True
 2018,2019,91,ACTOR IN A LEADING ROLE,Christian Bale,Vice,False
-2018,2019,91,ACTOR IN A LEADING ROLE,Bradley Cooper,A Star Is Born,False
+2018,2019,91,ACTOR IN A LEADING ROLE,Bradley Cooper,A Star Is Born (2018),False
 2018,2019,91,ACTOR IN A LEADING ROLE,Willem Dafoe,At Eternity's Gate,False
 2018,2019,91,ACTOR IN A LEADING ROLE,Rami Malek,Bohemian Rhapsody,True
 2018,2019,91,ACTOR IN A LEADING ROLE,Viggo Mortensen,Green Book,False
 2018,2019,91,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,Green Book,True
 2018,2019,91,ACTOR IN A SUPPORTING ROLE,Adam Driver,BlacKkKlansman,False
-2018,2019,91,ACTOR IN A SUPPORTING ROLE,Sam Elliott,A Star Is Born,False
+2018,2019,91,ACTOR IN A SUPPORTING ROLE,Sam Elliott,A Star Is Born (2018),False
 2018,2019,91,ACTOR IN A SUPPORTING ROLE,Richard E. Grant,Can You Ever Forgive Me?,False
 2018,2019,91,ACTOR IN A SUPPORTING ROLE,Sam Rockwell,Vice,False
 2018,2019,91,ACTRESS IN A LEADING ROLE,Yalitza Aparicio,Roma,False
 2018,2019,91,ACTRESS IN A LEADING ROLE,Glenn Close,The Wife,False
 2018,2019,91,ACTRESS IN A LEADING ROLE,Olivia Colman,The Favourite,True
-2018,2019,91,ACTRESS IN A LEADING ROLE,Lady Gaga,A Star Is Born,False
+2018,2019,91,ACTRESS IN A LEADING ROLE,Lady Gaga,A Star Is Born (2018),False
 2018,2019,91,ACTRESS IN A LEADING ROLE,Melissa McCarthy,Can You Ever Forgive Me?,False
 2018,2019,91,ACTRESS IN A SUPPORTING ROLE,Amy Adams,Vice,False
 2018,2019,91,ACTRESS IN A SUPPORTING ROLE,Marina de Tavira,Roma,False
@@ -10170,7 +10170,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2018,2019,91,CINEMATOGRAPHY,Robbie Ryan,The Favourite,False
 2018,2019,91,CINEMATOGRAPHY,Caleb Deschanel,Never Look Away,False
 2018,2019,91,CINEMATOGRAPHY,Alfonso Cuarón,Roma,True
-2018,2019,91,CINEMATOGRAPHY,Matthew Libatique,A Star Is Born,False
+2018,2019,91,CINEMATOGRAPHY,Matthew Libatique,A Star Is Born (2018),False
 2018,2019,91,COSTUME DESIGN,Mary Zophres,The Ballad of Buster Scruggs,False
 2018,2019,91,COSTUME DESIGN,Ruth Carter,Black Panther,True
 2018,2019,91,COSTUME DESIGN,Sandy Powell,The Favourite,False
@@ -10220,7 +10220,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2018,2019,91,BEST PICTURE,"Ceci Dempsey, Ed Guiney, Lee Magiday and Yorgos Lanthimos, Producers",The Favourite,False
 2018,2019,91,BEST PICTURE,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga, Producers",Green Book,True
 2018,2019,91,BEST PICTURE,"Gabriela Rodríguez and Alfonso Cuarón, Producers",Roma,False
-2018,2019,91,BEST PICTURE,"Bill Gerber, Bradley Cooper and Lynette Howell Taylor, Producers",A Star Is Born,False
+2018,2019,91,BEST PICTURE,"Bill Gerber, Bradley Cooper and Lynette Howell Taylor, Producers",A Star Is Born (2018),False
 2018,2019,91,BEST PICTURE,"Dede Gardner, Jeremy Kleiner, Adam McKay and Kevin Messick, Producers",Vice,False
 2018,2019,91,PRODUCTION DESIGN,Production Design: Hannah Beachler; Set Decoration: Jay Hart,Black Panther,True
 2018,2019,91,PRODUCTION DESIGN,Production Design: Fiona Crombie; Set Decoration: Alice Felton,The Favourite,False
@@ -10246,7 +10246,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2018,2019,91,SOUND MIXING,"Paul Massey, Tim Cavagin and John Casali",Bohemian Rhapsody,True
 2018,2019,91,SOUND MIXING,"Jon Taylor, Frank A. Montaño, Ai-Ling Lee and Mary H. Ellis",First Man,False
 2018,2019,91,SOUND MIXING,"Skip Lievsay, Craig Henighan and José Antonio García",Roma,False
-2018,2019,91,SOUND MIXING,"Tom Ozanich, Dean Zupancic, Jason Ruder and Steve Morrow",A Star Is Born,False
+2018,2019,91,SOUND MIXING,"Tom Ozanich, Dean Zupancic, Jason Ruder and Steve Morrow",A Star Is Born (2018),False
 2018,2019,91,VISUAL EFFECTS,"Dan DeLeeuw, Kelly Port, Russell Earl and Dan Sudick",Avengers: Infinity War,False
 2018,2019,91,VISUAL EFFECTS,"Christopher Lawrence, Michael Eames, Theo Jones and Chris Corbould",Christopher Robin,False
 2018,2019,91,VISUAL EFFECTS,"Paul Lambert, Ian Hunter, Tristan Myles and J.D. Schwalm",First Man,True
@@ -10256,7 +10256,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2018,2019,91,WRITING (Adapted Screenplay),Written by Charlie Wachtel & David Rabinowitz and Kevin Willmott & Spike Lee,BlacKkKlansman,True
 2018,2019,91,WRITING (Adapted Screenplay),Screenplay by Nicole Holofcener and Jeff Whitty,Can You Ever Forgive Me?,False
 2018,2019,91,WRITING (Adapted Screenplay),Written for the screen by Barry Jenkins,If Beale Street Could Talk,False
-2018,2019,91,WRITING (Adapted Screenplay),Screenplay by Eric Roth and Bradley Cooper & Will Fetters,A Star Is Born,False
+2018,2019,91,WRITING (Adapted Screenplay),Screenplay by Eric Roth and Bradley Cooper & Will Fetters,A Star Is Born (2018),False
 2018,2019,91,WRITING (Original Screenplay),Written by Deborah Davis and Tony McNamara,The Favourite,False
 2018,2019,91,WRITING (Original Screenplay),Written by Paul Schrader,First Reformed,False
 2018,2019,91,WRITING (Original Screenplay),"Written by Nick Vallelonga, Brian Currie, Peter Farrelly",Green Book,True
