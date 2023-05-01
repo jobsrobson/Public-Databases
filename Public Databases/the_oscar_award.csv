@@ -235,13 +235,13 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1932,1933,6,CINEMATOGRAPHY,Karl Struss,The Sign of the Cross,False
 1932,1933,6,DIRECTING,Frank Lloyd,Cavalcade,True
 1932,1933,6,DIRECTING,Frank Capra,Lady for a Day,False
-1932,1933,6,DIRECTING,George Cukor,Little Women,False
+1932,1933,6,DIRECTING,George Cukor,Little Women (1933),False
 1932,1933,6,OUTSTANDING PRODUCTION,Fox,Cavalcade,True
 1932,1933,6,OUTSTANDING PRODUCTION,Paramount,A Farewell to Arms,False
 1932,1933,6,OUTSTANDING PRODUCTION,Warner Bros.,42nd Street,False
 1932,1933,6,OUTSTANDING PRODUCTION,Warner Bros.,I Am a Fugitive from a Chain Gang,False
 1932,1933,6,OUTSTANDING PRODUCTION,Columbia,Lady for a Day,False
-1932,1933,6,OUTSTANDING PRODUCTION,RKO Radio,Little Women,False
+1932,1933,6,OUTSTANDING PRODUCTION,RKO Radio,Little Women (1933),False
 1932,1933,6,OUTSTANDING PRODUCTION,London Films,The Private Life of Henry VIII,False
 1932,1933,6,OUTSTANDING PRODUCTION,Paramount,She Done Him Wrong,False
 1932,1933,6,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Smilin' Through,False
@@ -260,7 +260,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1932,1933,6,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",Gold Diggers of 1933,False
 1932,1933,6,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",I Am a Fugitive from a Chain Gang,False
 1932,1933,6,WRITING (Adaptation),Robert Riskin,Lady for a Day,False
-1932,1933,6,WRITING (Adaptation),"Victor Heerman, Sarah Y. Mason",Little Women,True
+1932,1933,6,WRITING (Adaptation),"Victor Heerman, Sarah Y. Mason",Little Women (1933),True
 1932,1933,6,WRITING (Adaptation),"Paul Green, Sonya Levien",State Fair,False
 1932,1933,6,WRITING (Original Story),Robert Lord,One Way Passage,True
 1932,1933,6,WRITING (Original Story),Frances Marion,The Prizefighter and the Lady,False
@@ -2308,7 +2308,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1949,1950,22,ART DIRECTION (Black-and-White),"Art Direction:  Harry Horner, John Meehan;  Set Decoration:  Emile Kuri",The Heiress,True
 1949,1950,22,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Jack Martin Smith;  Set Decoration:  Edwin B. Willis, Richard A. Pefferle",Madame Bovary,False
 1949,1950,22,ART DIRECTION (Color),Art Direction:  Edward Carrere;  Set Decoration:  Lyle Reifsnider,The Adventures of Don Juan,False
-1949,1950,22,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Paul Groesse;  Set Decoration:  Edwin B. Willis, Jack D. Moore",Little Women,True
+1949,1950,22,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Paul Groesse;  Set Decoration:  Edwin B. Willis, Jack D. Moore",Little Women (1949),True
 1949,1950,22,ART DIRECTION (Color),"Art Direction:  Jim Morahan, William Kellner, Michael Relph",Saraband,False
 1949,1950,22,CINEMATOGRAPHY (Black-and-White),Paul C. Vogel,Battleground,True
 1949,1950,22,CINEMATOGRAPHY (Black-and-White),Frank Planer,Champion,False
@@ -2317,7 +2317,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1949,1950,22,CINEMATOGRAPHY (Black-and-White),Leon Shamroy,Prince of Foxes,False
 1949,1950,22,CINEMATOGRAPHY (Color),Harry Stradling,The Barkleys of Broadway,False
 1949,1950,22,CINEMATOGRAPHY (Color),William Snyder,Jolson Sings Again,False
-1949,1950,22,CINEMATOGRAPHY (Color),"Robert Planck, Charles Schoenbaum",Little Women,False
+1949,1950,22,CINEMATOGRAPHY (Color),"Robert Planck, Charles Schoenbaum",Little Women (1949),False
 1949,1950,22,CINEMATOGRAPHY (Color),Charles G. Clarke,Sand,False
 1949,1950,22,CINEMATOGRAPHY (Color),Winton Hoch,She Wore a Yellow Ribbon,True
 1949,1950,22,COSTUME DESIGN (Black-and-White),"Edith Head, Gile Steele",The Heiress,True
@@ -2629,7 +2629,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1952,1953,25,ACTOR,Marlon Brando,Viva Zapata!,False
 1952,1953,25,ACTOR,Gary Cooper,High Noon,True
 1952,1953,25,ACTOR,Kirk Douglas,The Bad and the Beautiful,False
-1952,1953,25,ACTOR,José Ferrer,Moulin Rouge,False
+1952,1953,25,ACTOR,José Ferrer,Moulin Rouge (1952),False
 1952,1953,25,ACTOR,Alec Guinness,The Lavender Hill Mob,False
 1952,1953,25,ACTOR IN A SUPPORTING ROLE,Richard Burton,My Cousin Rachel,False
 1952,1953,25,ACTOR IN A SUPPORTING ROLE,Arthur Hunnicutt,The Big Sky,False
@@ -2643,7 +2643,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1952,1953,25,ACTRESS,Susan Hayward,With a Song in My Heart,False
 1952,1953,25,ACTRESS IN A SUPPORTING ROLE,Gloria Grahame,The Bad and the Beautiful,True
 1952,1953,25,ACTRESS IN A SUPPORTING ROLE,Jean Hagen,Singin' in the Rain,False
-1952,1953,25,ACTRESS IN A SUPPORTING ROLE,Colette Marchand,Moulin Rouge,False
+1952,1953,25,ACTRESS IN A SUPPORTING ROLE,Colette Marchand,Moulin Rouge (1952),False
 1952,1953,25,ACTRESS IN A SUPPORTING ROLE,Terry Moore,"Come Back, Little Sheba",False
 1952,1953,25,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,With a Song in My Heart,False
 1952,1953,25,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Edward Carfagno;  Set Decoration:  Edwin B. Willis, Keogh Gleason",The Bad and the Beautiful,True
@@ -2653,7 +2653,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1952,1953,25,ART DIRECTION (Black-and-White),"Art Direction:  Lyle Wheeler, Leland Fuller;  Set Decoration:  Thomas Little, Claude Carpenter",Viva Zapata!,False
 1952,1953,25,ART DIRECTION (Color),"Art Direction:  Richard Day, Clave;  Set Decoration:  Howard Bristol",Hans Christian Andersen,False
 1952,1953,25,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Paul Groesse;  Set Decoration:  Edwin B. Willis, Arthur Krams",The Merry Widow,False
-1952,1953,25,ART DIRECTION (Color),Art Direction:  Paul Sheriff;  Set Decoration:  Marcel Vertes,Moulin Rouge,True
+1952,1953,25,ART DIRECTION (Color),Art Direction:  Paul Sheriff;  Set Decoration:  Marcel Vertes,Moulin Rouge (1952),True
 1952,1953,25,ART DIRECTION (Color),"Art Direction:  Frank Hotaling;  Set Decoration:  John McCarthy, Jr., Charles Thompson",The Quiet Man,False
 1952,1953,25,ART DIRECTION (Color),"Art Direction:  Lyle Wheeler, John DeCuir;  Set Decoration:  Thomas Little, Paul S. Fox",The Snows of Kilimanjaro,False
 1952,1953,25,CINEMATOGRAPHY (Black-and-White),Robert Surtees,The Bad and the Beautiful,True
@@ -2674,12 +2674,12 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1952,1953,25,COSTUME DESIGN (Color),"Edith Head, Dorothy Jeakins, Miles White",The Greatest Show on Earth,False
 1952,1953,25,COSTUME DESIGN (Color),"Clave, Mary Wills, Madame Karinska",Hans Christian Andersen,False
 1952,1953,25,COSTUME DESIGN (Color),"Helen Rose, Gile Steele",The Merry Widow,False
-1952,1953,25,COSTUME DESIGN (Color),Marcel Vertes,Moulin Rouge,True
+1952,1953,25,COSTUME DESIGN (Color),Marcel Vertes,Moulin Rouge (1952),True
 1952,1953,25,COSTUME DESIGN (Color),Charles LeMaire,With a Song in My Heart,False
 1952,1953,25,DIRECTING,Joseph L. Mankiewicz,Five Fingers,False
 1952,1953,25,DIRECTING,Cecil B. DeMille,The Greatest Show on Earth,False
 1952,1953,25,DIRECTING,Fred Zinnemann,High Noon,False
-1952,1953,25,DIRECTING,John Huston,Moulin Rouge,False
+1952,1953,25,DIRECTING,John Huston,Moulin Rouge (1952),False
 1952,1953,25,DIRECTING,John Ford,The Quiet Man,True
 1952,1953,25,DOCUMENTARY (Feature),"Dore Schary, Producer",The Hoaxters,False
 1952,1953,25,DOCUMENTARY (Feature),"Hall Bartlett, Producer",Navajo,False
@@ -2692,7 +2692,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1952,1953,25,FILM EDITING,William Austin,Flat Top,False
 1952,1953,25,FILM EDITING,Anne Bauchens,The Greatest Show on Earth,False
 1952,1953,25,FILM EDITING,"Elmo Williams, Harry Gerstad",High Noon,True
-1952,1953,25,FILM EDITING,Ralph Kemplen,Moulin Rouge,False
+1952,1953,25,FILM EDITING,Ralph Kemplen,Moulin Rouge (1952),False
 1952,1953,25,MUSIC (Music Score of a Dramatic or Comedy Picture),Dimitri Tiomkin,High Noon,True
 1952,1953,25,MUSIC (Music Score of a Dramatic or Comedy Picture),Miklos Rozsa,Ivanhoe,False
 1952,1953,25,MUSIC (Music Score of a Dramatic or Comedy Picture),Max Steiner,Miracle of Fatima,False
@@ -7337,7 +7337,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1994,1995,67,ACTRESS IN A LEADING ROLE,Jodie Foster,Nell,False
 1994,1995,67,ACTRESS IN A LEADING ROLE,Jessica Lange,Blue Sky,True
 1994,1995,67,ACTRESS IN A LEADING ROLE,Miranda Richardson,Tom & Viv,False
-1994,1995,67,ACTRESS IN A LEADING ROLE,Winona Ryder,Little Women,False
+1994,1995,67,ACTRESS IN A LEADING ROLE,Winona Ryder,Little Women (1994),False
 1994,1995,67,ACTRESS IN A LEADING ROLE,Susan Sarandon,The Client,False
 1994,1995,67,ACTRESS IN A SUPPORTING ROLE,Rosemary Harris,Tom & Viv,False
 1994,1995,67,ACTRESS IN A SUPPORTING ROLE,Helen Mirren,The Madness of King George,False
@@ -7356,7 +7356,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1994,1995,67,CINEMATOGRAPHY,Owen Roizman,Wyatt Earp,False
 1994,1995,67,COSTUME DESIGN,"Lizzy Gardiner, Tim Chappel","The Adventures of Priscilla, Queen of the Desert",True
 1994,1995,67,COSTUME DESIGN,Jeffrey Kurland,Bullets over Broadway,False
-1994,1995,67,COSTUME DESIGN,Colleen Atwood,Little Women,False
+1994,1995,67,COSTUME DESIGN,Colleen Atwood,Little Women (1994),False
 1994,1995,67,COSTUME DESIGN,April Ferry,Maverick,False
 1994,1995,67,COSTUME DESIGN,Moidele Bickel,Queen Margot,False
 1994,1995,67,DIRECTING,Woody Allen,Bullets over Broadway,False
@@ -7390,7 +7390,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1994,1995,67,MUSIC (Original Score),Alan Silvestri,Forrest Gump,False
 1994,1995,67,MUSIC (Original Score),Elliot Goldenthal,Interview with the Vampire,False
 1994,1995,67,MUSIC (Original Score),Hans Zimmer,The Lion King,True
-1994,1995,67,MUSIC (Original Score),Thomas Newman,Little Women,False
+1994,1995,67,MUSIC (Original Score),Thomas Newman,Little Women (1994),False
 1994,1995,67,MUSIC (Original Score),Thomas Newman,The Shawshank Redemption,False
 1994,1995,67,MUSIC (Original Song),Music by Elton John; Lyric by Tim Rice,The Lion King,True
 1994,1995,67,MUSIC (Original Song),Music by Elton John; Lyric by Tim Rice,The Lion King,False
@@ -8127,7 +8127,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2001,2002,74,ACTOR IN A SUPPORTING ROLE,Jon Voight,Ali,False
 2001,2002,74,ACTRESS IN A LEADING ROLE,Halle Berry,Monster's Ball,True
 2001,2002,74,ACTRESS IN A LEADING ROLE,Judi Dench,Iris,False
-2001,2002,74,ACTRESS IN A LEADING ROLE,Nicole Kidman,Moulin Rouge,False
+2001,2002,74,ACTRESS IN A LEADING ROLE,Nicole Kidman,Moulin Rouge (2001),False
 2001,2002,74,ACTRESS IN A LEADING ROLE,Sissy Spacek,In the Bedroom,False
 2001,2002,74,ACTRESS IN A LEADING ROLE,Renée Zellweger,Bridget Jones's Diary,False
 2001,2002,74,ACTRESS IN A SUPPORTING ROLE,Jennifer Connelly,A Beautiful Mind,True
@@ -8142,17 +8142,17 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2001,2002,74,ART DIRECTION,Art Direction:  Stephen Altman; Set Decoration:  Anna Pinnock,Gosford Park,False
 2001,2002,74,ART DIRECTION,Art Direction:  Stuart Craig; Set Decoration:  Stephenie McMillan,Harry Potter and the Sorcerer's Stone,False
 2001,2002,74,ART DIRECTION,Art Direction:  Grant Major; Set Decoration:  Dan Hennah,The Lord of the Rings: The Fellowship of the Ring,False
-2001,2002,74,ART DIRECTION,Art Direction:  Catherine Martin; Set Decoration:  Brigitte Broch,Moulin Rouge,True
+2001,2002,74,ART DIRECTION,Art Direction:  Catherine Martin; Set Decoration:  Brigitte Broch,Moulin Rouge (2001),True
 2001,2002,74,CINEMATOGRAPHY,Bruno Delbonnel,Amélie,False
 2001,2002,74,CINEMATOGRAPHY,Slawomir Idziak,Black Hawk Down,False
 2001,2002,74,CINEMATOGRAPHY,Andrew Lesnie,The Lord of the Rings: The Fellowship of the Ring,True
 2001,2002,74,CINEMATOGRAPHY,Roger Deakins,The Man Who Wasn't There,False
-2001,2002,74,CINEMATOGRAPHY,Donald M. McAlpine,Moulin Rouge,False
+2001,2002,74,CINEMATOGRAPHY,Donald M. McAlpine,Moulin Rouge (2001),False
 2001,2002,74,COSTUME DESIGN,Milena Canonero,The Affair of the Necklace,False
 2001,2002,74,COSTUME DESIGN,Jenny Beavan,Gosford Park,False
 2001,2002,74,COSTUME DESIGN,Judianna Makovsky,Harry Potter and the Sorcerer's Stone,False
 2001,2002,74,COSTUME DESIGN,"Ngila Dickson, Richard Taylor",The Lord of the Rings: The Fellowship of the Ring,False
-2001,2002,74,COSTUME DESIGN,"Catherine Martin, Angus Strathie",Moulin Rouge,True
+2001,2002,74,COSTUME DESIGN,"Catherine Martin, Angus Strathie",Moulin Rouge (2001),True
 2001,2002,74,DIRECTING,Ron Howard,A Beautiful Mind,True
 2001,2002,74,DIRECTING,Ridley Scott,Black Hawk Down,False
 2001,2002,74,DIRECTING,Robert Altman,Gosford Park,False
@@ -8170,7 +8170,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2001,2002,74,FILM EDITING,Pietro Scalia,Black Hawk Down,True
 2001,2002,74,FILM EDITING,John Gilbert,The Lord of the Rings: The Fellowship of the Ring,False
 2001,2002,74,FILM EDITING,Dody Dorn,Memento,False
-2001,2002,74,FILM EDITING,Jill Bilcock,Moulin Rouge,False
+2001,2002,74,FILM EDITING,Jill Bilcock,Moulin Rouge (2001),False
 2001,2002,74,FOREIGN LANGUAGE FILM,France,Amélie,False
 2001,2002,74,FOREIGN LANGUAGE FILM,Norway,Elling,False
 2001,2002,74,FOREIGN LANGUAGE FILM,India,Lagaan,False
@@ -8178,7 +8178,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2001,2002,74,FOREIGN LANGUAGE FILM,Argentina,Son of the Bride,False
 2001,2002,74,MAKEUP,"Greg Cannom, Colleen Callaghan",A Beautiful Mind,False
 2001,2002,74,MAKEUP,"Peter Owen, Richard Taylor",The Lord of the Rings: The Fellowship of the Ring,True
-2001,2002,74,MAKEUP,"Maurizio Silvi, Aldo Signoretti",Moulin Rouge,False
+2001,2002,74,MAKEUP,"Maurizio Silvi, Aldo Signoretti",Moulin Rouge (2001),False
 2001,2002,74,MUSIC (Original Score),John Williams,A.I. Artificial Intelligence,False
 2001,2002,74,MUSIC (Original Score),James Horner,A Beautiful Mind,False
 2001,2002,74,MUSIC (Original Score),John Williams,Harry Potter and the Sorcerer's Stone,False
@@ -8193,7 +8193,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2001,2002,74,BEST PICTURE,"Robert Altman, Bob Balaban and David Levy, Producers",Gosford Park,False
 2001,2002,74,BEST PICTURE,"Graham Leader, Ross Katz and Todd Field, Producers",In the Bedroom,False
 2001,2002,74,BEST PICTURE,"Peter Jackson, Fran Walsh and Barrie M. Osborne, Producers",The Lord of the Rings: The Fellowship of the Ring,False
-2001,2002,74,BEST PICTURE,"Martin Brown, Baz Luhrmann and Fred Baron, Producers",Moulin Rouge,False
+2001,2002,74,BEST PICTURE,"Martin Brown, Baz Luhrmann and Fred Baron, Producers",Moulin Rouge (2001),False
 2001,2002,74,SHORT FILM (Animated),"Ruairi Robinson, Seamus Byrne",Fifty Percent Grey,False
 2001,2002,74,SHORT FILM (Animated),Ralph Eggleston,For the Birds,True
 2001,2002,74,SHORT FILM (Animated),"Cathal Gaffney, Darragh O'Connell",Give Up Yer Aul Sins,False
@@ -8207,7 +8207,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2001,2002,74,SOUND,"Vincent Arnardi, Guillaume Leriche, Jean Umansky",Amélie,False
 2001,2002,74,SOUND,"Michael Minkler, Myron Nettinga, Chris Munro",Black Hawk Down,True
 2001,2002,74,SOUND,"Christopher Boyes, Michael Semanick, Gethin Creagh, Hammond Peek",The Lord of the Rings: The Fellowship of the Ring,False
-2001,2002,74,SOUND,"Andy Nelson, Anna Behlmer, Roger Savage, Guntis Sics",Moulin Rouge,False
+2001,2002,74,SOUND,"Andy Nelson, Anna Behlmer, Roger Savage, Guntis Sics",Moulin Rouge (2001),False
 2001,2002,74,SOUND,"Kevin O'Connell, Greg P. Russell, Peter J. Devlin",Pearl Harbor,False
 2001,2002,74,SOUND EDITING,"Gary Rydstrom, Michael Silvers","Monsters, Inc.",False
 2001,2002,74,SOUND EDITING,"George Watters II, Christopher Boyes",Pearl Harbor,True
