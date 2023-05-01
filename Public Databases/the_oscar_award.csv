@@ -315,7 +315,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1934,1935,7,SHORT SUBJECT (Novelty),"Stacy Woodard and Horace Woodard, Producers",City of Wax,True
 1934,1935,7,SHORT SUBJECT (Novelty),"Pete Smith, Producer",Strikes and Spares,False
 1934,1935,7,SOUND RECORDING,"United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",The Affairs of Cellini,False
-1934,1935,7,SOUND RECORDING,"Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",Cleopatra,False
+1934,1935,7,SOUND RECORDING,"Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",Cleopatra (1934),False
 1934,1935,7,SOUND RECORDING,"Warner Bros.-First National Studio Sound Department, Nathan Levinson, Sound Director",Flirtation Walk,False
 1934,1935,7,SOUND RECORDING,"RKO Radio Studio Sound Department, Carl Dreher, Sound Director",The Gay Divorcee,False
 1934,1935,7,SOUND RECORDING,"Universal Studio Sound Department, Theodore Soderberg, Sound Director",Imitation of Life,False
@@ -329,11 +329,11 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1934,1935,7,WRITING (Original Story),Arthur Caesar,Manhattan Melodrama,True
 1934,1935,7,WRITING (Original Story),Norman Krasna,The Richest Girl in the World,False
 1934,1935,7,SPECIAL AWARD, Shirley Temple,,True
-1935,1936,8,ACTOR,Clark Gable,Mutiny on the Bounty,False
-1935,1936,8,ACTOR,Charles Laughton,Mutiny on the Bounty,False
+1935,1936,8,ACTOR,Clark Gable,Mutiny on the Bounty (1935),False
+1935,1936,8,ACTOR,Charles Laughton,Mutiny on the Bounty (1935),False
 1935,1936,8,ACTOR,Victor McLaglen,The Informer,True
 1935,1936,8,ACTOR,Paul Muni,Black Fury,False
-1935,1936,8,ACTOR,Franchot Tone,Mutiny on the Bounty,False
+1935,1936,8,ACTOR,Franchot Tone,Mutiny on the Bounty (1935),False
 1935,1936,8,ACTRESS,Elisabeth Bergner,Escape Me Never,False
 1935,1936,8,ACTRESS,Claudette Colbert,Private Worlds,False
 1935,1936,8,ACTRESS,Bette Davis,Dangerous,True
@@ -361,16 +361,16 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1935,1936,8,DIRECTING,Michael Curtiz,Captain Blood,False
 1935,1936,8,DIRECTING,John Ford,The Informer,True
 1935,1936,8,DIRECTING,Henry Hathaway,The Lives of a Bengal Lancer,False
-1935,1936,8,DIRECTING,Frank Lloyd,Mutiny on the Bounty,False
+1935,1936,8,DIRECTING,Frank Lloyd,Mutiny on the Bounty (1935),False
 1935,1936,8,FILM EDITING,Robert J. Kern,David Copperfield,False
 1935,1936,8,FILM EDITING,George Hively,The Informer,False
 1935,1936,8,FILM EDITING,Barbara McLean,Les Miserables,False
 1935,1936,8,FILM EDITING,Ellsworth Hoagland,The Lives of a Bengal Lancer,False
 1935,1936,8,FILM EDITING,Ralph Dawson,A Midsummer Night's Dream,True
-1935,1936,8,FILM EDITING,Margaret Booth,Mutiny on the Bounty,False
+1935,1936,8,FILM EDITING,Margaret Booth,Mutiny on the Bounty (1935),False
 1935,1936,8,MUSIC (Scoring),"Warner Bros.-First National Studio Music Department, Leo Forbstein, head of department  (Score by Erich Wolfgang Korngold)",Captain Blood,False
 1935,1936,8,MUSIC (Scoring),"RKO Radio Studio Music Department, Max Steiner, head of department  (Score by Max Steiner)",The Informer,True
-1935,1936,8,MUSIC (Scoring),"Metro-Goldwyn-Mayer Studio Music Department, Nat W. Finston, head of department  (Score by Herbert Stothart)",Mutiny on the Bounty,False
+1935,1936,8,MUSIC (Scoring),"Metro-Goldwyn-Mayer Studio Music Department, Nat W. Finston, head of department  (Score by Herbert Stothart)",Mutiny on the Bounty (1935),False
 1935,1936,8,MUSIC (Scoring),"Paramount Studio Music Department, Irvin Talbot, head of department  (Score by Ernst Toch)",Peter Ibbetson,False
 1935,1936,8,MUSIC (Song),Music and Lyrics by Irving Berlin,Top Hat,False
 1935,1936,8,MUSIC (Song),Music by Jerome Kern; Lyrics by Dorothy Fields and Jimmy McHugh,Roberta,False
@@ -383,7 +383,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1935,1936,8,OUTSTANDING PRODUCTION,20th Century,Les Miserables,False
 1935,1936,8,OUTSTANDING PRODUCTION,Paramount,The Lives of a Bengal Lancer,False
 1935,1936,8,OUTSTANDING PRODUCTION,Warner Bros.,A Midsummer Night's Dream,False
-1935,1936,8,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Mutiny on the Bounty,True
+1935,1936,8,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Mutiny on the Bounty (1935),True
 1935,1936,8,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Naughty Marietta,False
 1935,1936,8,OUTSTANDING PRODUCTION,Paramount,Ruggles of Red Gap,False
 1935,1936,8,OUTSTANDING PRODUCTION,RKO Radio,Top Hat,False
@@ -412,7 +412,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1935,1936,8,WRITING (Screenplay),Casey Robinson,Captain Blood,False
 1935,1936,8,WRITING (Screenplay),Dudley Nichols,The Informer,True
 1935,1936,8,WRITING (Screenplay),"Screenplay by Waldemar Young, John L. Balderston, Achmed Abdullah;  Adaptation by Grover Jones, William Slavens McNutt",The Lives of a Bengal Lancer,False
-1935,1936,8,WRITING (Screenplay),"Talbot Jennings, Jules Furthman, Carey Wilson",Mutiny on the Bounty,False
+1935,1936,8,WRITING (Screenplay),"Talbot Jennings, Jules Furthman, Carey Wilson",Mutiny on the Bounty (1935),False
 1935,1936,8,SPECIAL AWARD, David Wark Griffith,,True
 1936,1937,9,ACTOR,Gary Cooper,Mr. Deeds Goes to Town,False
 1936,1937,9,ACTOR,Walter Huston,Dodsworth,False
@@ -3864,7 +3864,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,ART DIRECTION (Black-and-White),"Art Direction:  Alexander Golitzen, Henry Bumstead;  Set Decoration:  Oliver Emert",To Kill a Mockingbird,True
 1962,1963,35,ART DIRECTION (Color),"Art Direction:  John Box, John Stoll;  Set Decoration:  Dario Simoni",Lawrence of Arabia,True
 1962,1963,35,ART DIRECTION (Color),Art Direction:  Paul Groesse;  Set Decoration:  George James Hopkins,Meredith Willson's The Music Man,False
-1962,1963,35,ART DIRECTION (Color),"Art Direction:  George W. Davis, J. McMillan Johnson;  Set Decoration:  Henry Grace, Hugh Hunt",Mutiny on the Bounty,False
+1962,1963,35,ART DIRECTION (Color),"Art Direction:  George W. Davis, J. McMillan Johnson;  Set Decoration:  Henry Grace, Hugh Hunt",Mutiny on the Bounty (1962),False
 1962,1963,35,ART DIRECTION (Color),"Art Direction:  Alexander Golitzen, Robert Clatworthy;  Set Decoration:  George Milo",That Touch of Mink,False
 1962,1963,35,ART DIRECTION (Color),"Art Direction:  George W. Davis, Edward Carfagno;  Set Decoration:  Henry Grace, Dick Pefferle",The Wonderful World of the Brothers Grimm,False
 1962,1963,35,CINEMATOGRAPHY (Black-and-White),Burnett Guffey,Birdman of Alcatraz,False
@@ -3875,7 +3875,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,CINEMATOGRAPHY (Color),"Harry Stradling, Sr.",Gypsy,False
 1962,1963,35,CINEMATOGRAPHY (Color),Russell Harlan,Hatari!,False
 1962,1963,35,CINEMATOGRAPHY (Color),Fred A. Young,Lawrence of Arabia,True
-1962,1963,35,CINEMATOGRAPHY (Color),Robert L. Surtees,Mutiny on the Bounty,False
+1962,1963,35,CINEMATOGRAPHY (Color),Robert L. Surtees,Mutiny on the Bounty (1962),False
 1962,1963,35,CINEMATOGRAPHY (Color),Paul C. Vogel,The Wonderful World of the Brothers Grimm,False
 1962,1963,35,COSTUME DESIGN (Black-and-White),Don Feld,Days of Wine and Roses,False
 1962,1963,35,COSTUME DESIGN (Black-and-White),Edith Head,The Man Who Shot Liberty Valance,False
@@ -3901,7 +3901,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,FILM EDITING,Samuel E. Beetley,The Longest Day,False
 1962,1963,35,FILM EDITING,Ferris Webster,The Manchurian Candidate,False
 1962,1963,35,FILM EDITING,William Ziegler,Meredith Willson's The Music Man,False
-1962,1963,35,FILM EDITING,"John McSweeney, Jr.",Mutiny on the Bounty,False
+1962,1963,35,FILM EDITING,"John McSweeney, Jr.",Mutiny on the Bounty (1962),False
 1962,1963,35,FOREIGN LANGUAGE FILM,Greece,Electra,False
 1962,1963,35,FOREIGN LANGUAGE FILM,Italy,The Four Days of Naples,False
 1962,1963,35,FOREIGN LANGUAGE FILM,Brazil,Keeper of Promises (The Given Word),False
@@ -3909,7 +3909,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,FOREIGN LANGUAGE FILM,Mexico,Tlayucan,False
 1962,1963,35,MUSIC (Music Score--substantially original),Jerry Goldsmith,Freud,False
 1962,1963,35,MUSIC (Music Score--substantially original),Maurice Jarre,Lawrence of Arabia,True
-1962,1963,35,MUSIC (Music Score--substantially original),Bronislau Kaper,Mutiny on the Bounty,False
+1962,1963,35,MUSIC (Music Score--substantially original),Bronislau Kaper,Mutiny on the Bounty (1962),False
 1962,1963,35,MUSIC (Music Score--substantially original),Franz Waxman,Taras Bulba,False
 1962,1963,35,MUSIC (Music Score--substantially original),Elmer Bernstein,To Kill a Mockingbird,False
 1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),George Stoll,Billy Rose's Jumbo,False
@@ -3918,14 +3918,14 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Ray Heindorf,Meredith Willson's The Music Man,True
 1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Leigh Harline,The Wonderful World of the Brothers Grimm,False
 1962,1963,35,MUSIC (Song),Music by Henry Mancini; Lyrics by Johnny Mercer,Days of Wine and Roses,True
-1962,1963,35,MUSIC (Song),Music by Bronislau Kaper; Lyrics by Paul Francis Webster,Mutiny on the Bounty,False
+1962,1963,35,MUSIC (Song),Music by Bronislau Kaper; Lyrics by Paul Francis Webster,Mutiny on the Bounty (1962),False
 1962,1963,35,MUSIC (Song),Music by Andre Previn; Lyrics by Dory Langdon,Two for the Seesaw,False
 1962,1963,35,MUSIC (Song),Music by Sammy Fain; Lyrics by Paul Francis Webster,Tender Is the Night,False
 1962,1963,35,MUSIC (Song),Music by Elmer Bernstein; Lyrics by Mack David,Walk on the Wild Side,False
 1962,1963,35,BEST PICTURE,"Sam Spiegel, Producer",Lawrence of Arabia,True
 1962,1963,35,BEST PICTURE,"Darryl F. Zanuck, Producer",The Longest Day,False
 1962,1963,35,BEST PICTURE,"Morton Da Costa, Producer",Meredith Willson's The Music Man,False
-1962,1963,35,BEST PICTURE,"Aaron Rosenberg, Producer",Mutiny on the Bounty,False
+1962,1963,35,BEST PICTURE,"Aaron Rosenberg, Producer",Mutiny on the Bounty (1962),False
 1962,1963,35,BEST PICTURE,"Alan J. Pakula, Producer",To Kill a Mockingbird,False
 1962,1963,35,SHORT SUBJECT (Cartoon),"John Hubley and Faith Hubley, Producers",The Hole,True
 1962,1963,35,SHORT SUBJECT (Cartoon),"Jules Engel, Producer",Icarus Montgolfier Wright,False
@@ -3943,7 +3943,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,SOUND,"Universal City Studio Sound Department, Waldon O. Watson, Sound Director",That Touch of Mink,False
 1962,1963,35,SOUND,"Glen Glenn Sound Department, Joseph Kelly, Sound Director",What Ever Happened to Baby Jane?,False
 1962,1963,35,SPECIAL EFFECTS,Visual Effects by Robert MacDonald; Audible Effects by Jacques Maumont,The Longest Day,True
-1962,1963,35,SPECIAL EFFECTS,Visual Effects by A. Arnold Gillespie; Audible Effects by Milo Lory,Mutiny on the Bounty,False
+1962,1963,35,SPECIAL EFFECTS,Visual Effects by A. Arnold Gillespie; Audible Effects by Milo Lory,Mutiny on the Bounty (1962),False
 1962,1963,35,WRITING (Screenplay--based on material from another medium),Eleanor Perry,David and Lisa,False
 1962,1963,35,WRITING (Screenplay--based on material from another medium),"Robert Bolt, Michael Wilson",Lawrence of Arabia,False
 1962,1963,35,WRITING (Screenplay--based on material from another medium),Vladimir Nabokov,Lolita,False
@@ -3957,7 +3957,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,JEAN HERSHOLT HUMANITARIAN AWARD,Steve Broidy,,True
 1963,1964,36,ACTOR,Albert Finney,Tom Jones,False
 1963,1964,36,ACTOR,Richard Harris,This Sporting Life,False
-1963,1964,36,ACTOR,Rex Harrison,Cleopatra,False
+1963,1964,36,ACTOR,Rex Harrison,Cleopatra (1963),False
 1963,1964,36,ACTOR,Paul Newman,Hud,False
 1963,1964,36,ACTOR,Sidney Poitier,Lilies of the Field,True
 1963,1964,36,ACTOR IN A SUPPORTING ROLE,Nick Adams,Twilight of Honor,False
@@ -3991,7 +3991,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1963,1964,36,CINEMATOGRAPHY (Black-and-White),Ernest Haller,Lilies of the Field,False
 1963,1964,36,CINEMATOGRAPHY (Black-and-White),Milton Krasner,Love with the Proper Stranger,False
 1963,1964,36,CINEMATOGRAPHY (Color),Leon Shamroy,The Cardinal,False
-1963,1964,36,CINEMATOGRAPHY (Color),Leon Shamroy,Cleopatra,True
+1963,1964,36,CINEMATOGRAPHY (Color),Leon Shamroy,Cleopatra (1963),True
 1963,1964,36,CINEMATOGRAPHY (Color),"William H. Daniels, Milton Krasner, Charles Lang, Jr., Joseph LaShelle",How the West Was Won,False
 1963,1964,36,CINEMATOGRAPHY (Color),Joseph LaShelle,Irma La Douce,False
 1963,1964,36,CINEMATOGRAPHY (Color),Ernest Laszlo,"It's a Mad, Mad, Mad, Mad World",False
@@ -4001,7 +4001,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1963,1964,36,COSTUME DESIGN (Black-and-White),Bill Thomas,Toys in the Attic,False
 1963,1964,36,COSTUME DESIGN (Black-and-White),Edith Head,Wives and Lovers,False
 1963,1964,36,COSTUME DESIGN (Color),Donald Brooks,The Cardinal,False
-1963,1964,36,COSTUME DESIGN (Color),"Irene Sharaff, Vittorio Nino Novarese, Renie",Cleopatra,True
+1963,1964,36,COSTUME DESIGN (Color),"Irene Sharaff, Vittorio Nino Novarese, Renie",Cleopatra (1963),True
 1963,1964,36,COSTUME DESIGN (Color),Walter Plunkett,How the West Was Won,False
 1963,1964,36,COSTUME DESIGN (Color),Piero Tosi,The Leopard,False
 1963,1964,36,COSTUME DESIGN (Color),Edith Head,A New Kind of Love,False
@@ -4020,7 +4020,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1963,1964,36,DOCUMENTARY (Short Subject),"Edgar Anstey, Producer",Thirty Million Letters,False
 1963,1964,36,DOCUMENTARY (Short Subject),"Mel London, Producer",To Live Again,False
 1963,1964,36,FILM EDITING,Louis R. Loeffler,The Cardinal,False
-1963,1964,36,FILM EDITING,Dorothy Spencer,Cleopatra,False
+1963,1964,36,FILM EDITING,Dorothy Spencer,Cleopatra (1963),False
 1963,1964,36,FILM EDITING,Ferris Webster,The Great Escape,False
 1963,1964,36,FILM EDITING,Harold F. Kress,How the West Was Won,True
 1963,1964,36,FILM EDITING,"Frederic Knudtson, Robert C. Jones, Gene Fowler, Jr.","It's a Mad, Mad, Mad, Mad World",False
@@ -4029,7 +4029,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1963,1964,36,FOREIGN LANGUAGE FILM,Spain,Los Tarantos,False
 1963,1964,36,FOREIGN LANGUAGE FILM,Greece,The Red Lanterns,False
 1963,1964,36,FOREIGN LANGUAGE FILM,Japan,Twin Sisters of Kyoto,False
-1963,1964,36,MUSIC (Music Score--substantially original),Alex North,Cleopatra,False
+1963,1964,36,MUSIC (Music Score--substantially original),Alex North,Cleopatra (1963),False
 1963,1964,36,MUSIC (Music Score--substantially original),Dimitri Tiomkin,55 Days at Peking,False
 1963,1964,36,MUSIC (Music Score--substantially original),"Alfred Newman, Ken Darby",How the West Was Won,False
 1963,1964,36,MUSIC (Music Score--substantially original),Ernest Gold,"It's a Mad, Mad, Mad, Mad World",False
@@ -4045,7 +4045,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1963,1964,36,MUSIC (Song),Music by Riz Ortolani and Nino Oliviero; Lyrics by Norman Newell,Mondo Cane,False
 1963,1964,36,MUSIC (Song),Music by Dimitri Tiomkin; Lyrics by Paul Francis Webster,55 Days at Peking,False
 1963,1964,36,BEST PICTURE,"Elia Kazan, Producer",America America,False
-1963,1964,36,BEST PICTURE,"Walter Wanger, Producer",Cleopatra,False
+1963,1964,36,BEST PICTURE,"Walter Wanger, Producer",Cleopatra (1963),False
 1963,1964,36,BEST PICTURE,"Bernard Smith, Producer",How the West Was Won,False
 1963,1964,36,BEST PICTURE,"Ralph Nelson, Producer",Lilies of the Field,False
 1963,1964,36,BEST PICTURE,"Tony Richardson, Producer",Tom Jones,True
@@ -4061,13 +4061,13 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1963,1964,36,SHORT SUBJECT (Live Action),"Walker Stuart, Producer",That's Me,False
 1963,1964,36,SOUND,"Columbia Studio Sound Department, Charles Rice, Sound Director",Bye Bye Birdie,False
 1963,1964,36,SOUND,"Universal City Studio Sound Department, Waldon O. Watson, Sound Director","Captain Newman, M.D.",False
-1963,1964,36,SOUND,"20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",Cleopatra,False
+1963,1964,36,SOUND,"20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",Cleopatra (1963),False
 1963,1964,36,SOUND,"Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",How the West Was Won,True
 1963,1964,36,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director","It's a Mad, Mad, Mad, Mad World",False
 1963,1964,36,SOUND EFFECTS,Robert L. Bratton,A Gathering of Eagles,False
 1963,1964,36,SOUND EFFECTS,Walter G. Elliott,"It's a Mad, Mad, Mad, Mad World",True
 1963,1964,36,SPECIAL EFFECTS,Ub Iwerks,The Birds,False
-1963,1964,36,SPECIAL EFFECTS,"Emil Kosa, Jr.",Cleopatra,True
+1963,1964,36,SPECIAL EFFECTS,"Emil Kosa, Jr.",Cleopatra (1963),True
 1963,1964,36,WRITING (Screenplay--based on material from another medium),"Richard L. Breen, Phoebe Ephron, Henry Ephron","Captain Newman, M.D.",False
 1963,1964,36,WRITING (Screenplay--based on material from another medium),"Irving Ravetch, Harriet Frank, Jr.",Hud,False
 1963,1964,36,WRITING (Screenplay--based on material from another medium),James Poe,Lilies of the Field,False
