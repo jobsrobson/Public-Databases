@@ -731,7 +731,7 @@ index,alias,name,is_closed,review_count,categories,rating,latitude,longitude,pri
 729,ashram-brasília,Ashram,False,5,Indian; Breakfast & Brunch; Pakistani,4.5,-15.778667175888,-47.8823276918626,$$,Brasília,BR,DF,+55 61 3541-5670,4002.770896970503
 730,maori-gastronomia-brasília,Maori Gastronomia,False,11,Salad; Brazilian,4.5,-15.758798,-47.888381,$$,Brasília,BR,DF,+55 61 3201-6066,5378.2249017109725
 731,dona-lenha-brasília-4,Dona Lenha,False,7,Mediterranean,4.5,-15.803664,-47.940468,$$,Brasília,BR,DF,+55 61 3363-2424,3190.481699427314
-732,lakes-restaurante-asa-sul-gastronomia-vinhos-grelhados-brasília,"Lake's Restaurante Asa Sul: Gastronomia, Vinhos, Grelhados",False,2,Restaurants,4.5,-15.8091898,-47.8852615,$$$,Brasília,BR,DF,+55 61 3323-1029,2830.0786809364186
+732,lakes-restaurante-asa-sul-gastronomia-vinhos-grelhados-brasília,Lake's Restaurante Asa Sul: Gastronomia Vinhos Grelhados,False,2,Restaurants,4.5,-15.8091898,-47.8852615,$$$,Brasília,BR,DF,+55 61 3323-1029,2830.0786809364186
 733,bsb-grill-brasília,Bsb Grill,False,3,Brazilian; Steakhouses,4.0,-15.774421,-47.885681,$$$,Brasília,BR,DF,+55 61 3326-0976,4081.780886314613
 734,marzuk-brasília-2,Marzuk,False,9,Arabic,4.0,-15.763199,-47.891712,$$,Brasília,BR,DF,+55 61 3202-0329,4782.5810202409775
 735,dona-lenha-brasília-5,Dona Lenha,False,11,Mediterranean,4.5,-15.805067,-47.884758,$$,Brasília,BR,DF,+55 61 3322-1234,2793.5669555337067
@@ -770,7 +770,7 @@ index,alias,name,is_closed,review_count,categories,rating,latitude,longitude,pri
 768,le-vin-bistro-brasília-2,Le Vin Bistro,False,6,Bistros; French,4.5,-15.8338425519442,-47.9557434266378,$$$,Brasília,BR,DF,+55 61 3028-6336,5971.503265306391
 769,páprica-burger-brasília,Páprica Burger,False,2,Burgers,4.5,-15.793503,-47.8890136931126,,Brasília,BR,DF,,2510.2645412348825
 770,restaurante-taiwan-brasília,Restaurante Taiwan,False,1,Chinese,5.0,-15.8194304,-47.8995399,$$,Brasília,BR,DF,+55 61 3345-6202,2290.8621554085
-771,ô-porketa-asa-sul,"Ô, Porketa!",False,2,Italian,5.0,-15.8047766,-47.8853718,$$,Asa Sul,BR,DF,+55 61 3323-1547,2724.691916444326
+771,ô-porketa-asa-sul,Ô Porketa!,False,2,Italian,5.0,-15.8047766,-47.8853718,$$,Asa Sul,BR,DF,+55 61 3323-1547,2724.691916444326
 772,dona-graça-cozinha-nordestina-taguatinga,Dona Graça Cozinha Nordestina,False,1,Brazilian,5.0,-15.792735409735,-47.8476657935751,,Taguatinga,BR,DF,+55 61 3032-1062,6823.911561662165
 773,restaurante-san-marco-brasília,Restaurante San Marco,False,1,Rodizios,5.0,-15.7945879,-47.8894826,$$$,Brasília,BR,DF,+55 61 2103-8484,2419.511782132557
 774,pizzaria-dom-bosco-brasília-2,Pizzaria Dom Bosco,False,31,Pizza,4.5,-15.8149143655725,-47.9027517928666,$,Brasília,BR,DF,+55 61 3443-7579,1655.001912340679
@@ -924,7 +924,7 @@ index,alias,name,is_closed,review_count,categories,rating,latitude,longitude,pri
 922,koni-brasília-3,Koni,False,1,Japanese,4.0,-15.8147407712345,-47.8946668424556,,Brasília,BR,DF,,2214.079921875912
 923,peixe-na-rede-brasília-2,Peixe na Rede,False,2,Seafood,4.0,-15.7917767358724,-47.9161251336336,,Brasília,BR,DF,+55 61 3344-9498,1290.7479798769762
 924,boa-mesa-self-service-cruzeiro,Boa Mesa Self Service,False,1,Restaurants,4.0,-15.8029099,-47.9284897,,Cruzeiro,BR,DF,+55 61 3344-9949,1887.8846979176967
-925,ô-porketa-asa-sul-2,"Ô, Porketa!",False,2,Sandwiches,4.0,-15.8041810357727,-47.8856265485351,$$,Asa Sul,BR,DF,+55 61 3323-1547,2691.2077185312965
+925,ô-porketa-asa-sul-2,Ô Porketa!,False,2,Sandwiches,4.0,-15.8041810357727,-47.8856265485351,$$,Asa Sul,BR,DF,+55 61 3323-1547,2691.2077185312965
 926,frango-no-pote-sudoeste,Frango no Pote,False,3,American (Traditional); Specialty Food,4.0,-15.7981875938928,-47.9197937548477,$,Sudoeste,BR,DF,+55 61 3032-4202,1068.570852326921
 927,d-macarons-brasília,D'Macarons,False,1,Food Stands,4.0,-15.789053740068,-47.8983895745519,$$$,Brasília,BR,DF,+55 11 99607-6071,1962.0341355008168
 928,commo-gastronomia-brasília,Commo Gastronomia,False,4,Restaurants,3.5,-15.7907305,-47.8844109,$$$,Brasília,BR,DF,+55 61 3326-7755,3051.9354054795267
@@ -3177,7 +3177,7 @@ index,alias,name,is_closed,review_count,categories,rating,latitude,longitude,pri
 3175,restaurante-tanit-são-paulo,Restaurante Tanit,False,6,Mediterranean,5.0,-23.5678628720618,-46.6638442654698,,São Paulo,BR,SP,+55 11 3062-6385,360.6351420796941
 3176,são-cristóvão-são-paulo,São Cristóvão,False,11,Brazilian; Sports Bars,4.5,-23.5581395,-46.690306,$$,São Paulo,BR,SP,+55 11 3097-9904,3238.0419329310057
 3177,taormina-são-paulo-2,Taormina,False,21,Italian,4.5,-23.5662687,-46.65698,$$,São Paulo,BR,SP,+55 11 3253-6276,376.56971490122737
-3178,marakutha-jardins-restaurante-tailandês-comida-tailandesa-jardim-paulista,"Marakutha Jardins: Restaurante Tailandês, Comida Tailandesa",False,1,Thai; Asian Fusion,5.0,-23.565124,-46.664428,,Jardim Paulista,BR,SP,+55 11 3061-1015,510.0894788779906
+3178,marakutha-jardins-restaurante-tailandês-comida-tailandesa-jardim-paulista,Marakutha Jardins: Restaurante Tailandês Comida Tailandesa,False,1,Thai; Asian Fusion,5.0,-23.565124,-46.664428,,Jardim Paulista,BR,SP,+55 11 3061-1015,510.0894788779906
 3179,kaá-são-paulo-2,KAÁ,False,31,Brazilian; Italian; French,4.5,-23.58652,-46.67334,$$$$,São Paulo,BR,SP,+55 11 3045-0043,2493.987600715104
 3180,tavares-restaurante-são-paulo,Tavares Restaurante,False,26,Brazilian; Breakfast & Brunch; Cocktail Bars,4.5,-23.5604836,-46.6682224,$$,São Paulo,BR,SP,+55 11 3062-6026,1147.1411554996653
 3181,veridiana-são-paulo,Veridiana,False,14,Pizza,4.5,-23.569173,-46.657205,$$$,São Paulo,BR,SP,+55 11 3559-9151,354.73313847118595
@@ -3295,7 +3295,7 @@ index,alias,name,is_closed,review_count,categories,rating,latitude,longitude,pri
 3293,bar-do-biu-são-paulo,Bar do Biu,False,14,Dive Bars; Brazilian,4.5,-23.5573418,-46.6808914,$$,São Paulo,BR,SP,+55 11 3081-6739,2378.884204924734
 3294,la-cabana-parrilla-argentina-são-paulo,La Cabana Parrilla Argentina,False,4,Argentine,4.5,-23.6046009,-46.6587448,,São Paulo,BR,SP,+55 11 5052-7612,3988.9310281891353
 3295,graça-mineira-são-paulo,Graça Mineira,False,12,Brazilian,4.5,-23.5979269,-46.6382959,$$,São Paulo,BR,SP,+55 11 5579-9686,4038.214360119357
-3296,jam-japanese-food-arts-e-music-jardins-são-paulo-2,"JAM - Japanese Food, Arts & Music  ""Jardins""",False,26,Japanese; Sushi Bars,4.0,-23.561974,-46.6675084,$$$,São Paulo,BR,SP,+55 11 3473-3273,958.625937802806
+3296,jam-japanese-food-arts-e-music-jardins-são-paulo-2,"JAM - Japanese Food Arts & Music  ""Jardins""",False,26,Japanese; Sushi Bars,4.0,-23.561974,-46.6675084,$$$,São Paulo,BR,SP,+55 11 3473-3273,958.625937802806
 3297,lua-palace-são-paulo,Lua Palace,False,5,Korean,5.0,-23.5738297,-46.6328888,$$,São Paulo,BR,SP,+55 11 3277-7823,2874.6084420105863
 3298,balaio-ims-são-paulo,Balaio IMS,False,3,Brazilian; Lounges,4.5,-23.5562,-46.6621,,São Paulo,BR,SP,+55 11 2842-9123,1312.1195147554251
 3299,chef-vivi-são-paulo,Chef Vivi,False,6,Restaurants,4.0,-23.5520977,-46.6917356,,São Paulo,BR,SP,+55 11 3031-0079,3648.8344733150248
@@ -3347,12 +3347,12 @@ index,alias,name,is_closed,review_count,categories,rating,latitude,longitude,pri
 3345,aska-são-paulo,Aska,False,58,Ramen,4.0,-23.5597971,-46.6349095,$,São Paulo,BR,SP,+55 11 3277-9682,2734.912518796405
 3346,naïve-são-paulo-2,Naïve,False,14,Bars; Tapas/Small Plates,4.0,-23.5488043926452,-46.6560035571456,$$,São Paulo,BR,SP,+55 11 2528-9044,2149.6387612066765
 3347,all-seasons-são-paulo,All Seasons,False,1,Brazilian,4.0,-23.5714696,-46.6464317,$,São Paulo,BR,SP,+55 11 2627-1336,1489.2694030487294
-3348,luz-câmera-burger-são-paulo-2,"Luz, Câmera, Burger",False,12,Burgers,4.5,-23.5829,-46.64961,$$,São Paulo,BR,SP,+55 11 3564-5410,2034.16148328191
+3348,luz-câmera-burger-são-paulo-2,Luz Câmera Burger,False,12,Burgers,4.5,-23.5829,-46.64961,$$,São Paulo,BR,SP,+55 11 3564-5410,2034.16148328191
 3349,aizomê-são-paulo-2,Aizomê,False,11,Japanese,4.0,-23.57,-46.6517,$$$$,São Paulo,BR,SP,+55 11 3251-5157,913.0051090478414
 3350,café-journal-são-paulo,Café Journal,False,15,Wine Bars; Modern European,4.0,-23.608944,-46.659521,$$$,São Paulo,BR,SP,+55 11 5055-9454,4583.543490362269
 3351,casa-na-praia-são-paulo-2,Casa na Praia,False,5,Soup; Brazilian; Bars,4.0,-23.5839864812898,-46.6479071806482,$$$,São Paulo,BR,SP,+55 11 5082-5002,2205.718001483262
 3352,la-pasta-gialla-são-paulo-5,La Pasta Gialla,False,1,Restaurants,5.0,-23.6059303,-46.66642,$$,São Paulo,BR,SP,+55 11 5051-9292,4291.618938804782
-3353,jam-japanese-food-arts-e-music-são-paulo-2,"JAM - Japanese Food, Arts & Music",False,6,Japanese; Sushi Bars,4.5,-23.5881017,-46.6832306,$$$,São Paulo,BR,SP,+55 11 3473-3273,3253.98458026466
+3353,jam-japanese-food-arts-e-music-são-paulo-2,JAM - Japanese Food Arts & Music,False,6,Japanese; Sushi Bars,4.5,-23.5881017,-46.6832306,$$$,São Paulo,BR,SP,+55 11 3473-3273,3253.98458026466
 3354,na-cozinha-são-paulo,Na Cozinha,False,10,Brazilian,4.0,-23.5603695,-46.6641197,$,São Paulo,BR,SP,+55 11 3063-5377,907.1595956573252
 3355,esther-rooftop-são-paulo,Esther Rooftop,False,7,French; Modern European,5.0,-23.5446138756603,-46.642915594451,$$$,São Paulo,BR,SP,+55 11 3256-1009,3122.450865852609
 3356,imakay-são-paulo,Imakay,False,3,Cocktail Bars; Seafood,4.5,-23.5865,-46.67636,,São Paulo,BR,SP,+55 11 3078-7786,2645.979380356105
