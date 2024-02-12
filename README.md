@@ -1,4 +1,4 @@
-General Files
+Public Databases
 =================================
 
-For training purposes.
+Public repository for storing databases used in various projects.
