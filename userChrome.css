@@ -1,0 +1,583 @@
+/* ZEN BROWSER VISUAL ADJUSTMENTS by @jobsrobson */
+
+
+    /* Animation variables */
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+
+/*  -------------------------------------------------------------------------------------------------------------------------------------
+    BROWSER MAIN COLOR */ 
+
+    #browser { 
+      background: light-dark(hsl(from var(--zen-primary-color) h 50% 98%), hsl(from var(--zen-primary-color) h 50% 8%)) !important;
+      /* background: light-dark(#fff, #1a1e26) !important; /* Adjust System Color Theme */
+    }
+
+
+
+/*  -------------------------------------------------------------------------------------------------------------------------------------
+    NEW TAB BUTTON (NTB) OVER TABS */
+
+    #newtab-button-container { /* NTB Container */
+      border-top: 0px solid color-mix(in srgb, currentColor 10%, transparent) !important;
+      animation: zen-slide-in 0.2s ease-in-out !important;
+      display: flex !important;
+      flex-direction: column !important;
+      width: 100% !important;
+      margin-top: -10px !important;
+       opacity: 0.5 !important;
+    }
+
+    /* Hide NTB when Zen Sidebar is collapsed or expanded on hover */
+    @media not all and (-moz-bool-pref: "zen.view.sidebar-expanded") {
+      #newtab-button-container {
+        display: none !important;
+      }
+    }
+    @media (-moz-bool-pref: "zen.view.sidebar-expanded.on-hover") {
+      #newtab-button-container {
+        display: none !important;
+      }
+    }
+
+    /* NTB general settings */
+    #vertical-tabs-newtab-button {
+      animation: zen-slide-in 0.2s ease-in-out !important;
+      display: flex !important;
+      justify-content: flex-start !important;
+      align-items: center !important;
+      padding: 0 !important;
+      height: 43px !important;
+      margin-bottom: 4px !important;
+      border-radius: var(--border-radius-medium) !important;
+      margin-inline: var(--tab-block-margin) !important;
+      box-sizing: border-box !important;
+      /*background-color: #e0e0e0 !important; /* Cor de fundo do botão */
+      transition: all 0.3s ease !important; /* Suaviza as transições */
+      padding-left: 0px !important;
+    }
+
+    /* NTB Plus Icon */
+    #vertical-tabs-newtab-button > .toolbarbutton-icon {
+      animation: zen-slide-in 0.2s ease-in-out !important;
+      display: inline-flex !important;
+    }
+
+    /* NTB "New Tab" label */
+    #vertical-tabs-newtab-button > .toolbarbutton-text {
+        animation: zen-slide-in 0.2s ease-in-out !important;
+        display: inline-flex !important;
+        text-align: start !important;
+        font-size: 1.2em !important;
+        margin: 0 !important;
+        line-height: 17px !important;
+        height: auto !important;
+        padding-left: 0px !important;
+    }
+
+    /* NTB - Adjust hover */
+    #vertical-tabs-newtab-button:hover > .toolbarbutton-icon {
+        border-top-right-radius: 0px !important;
+        border-bottom-right-radius: 0px !important;
+      }
+    #vertical-tabs-newtab-button:hover > .toolbarbutton-text {
+        border-top-left-radius: 0px !important;
+        border-bottom-left-radius: 0px !important;
+      }
+/*  #vertical-tabs-newtab-button:hover {
+        height: 43px !important;
+    } */
+
+
+
+/*  -------------------------------------------------------------------------------------------------------------------------------------
+    PINNED TABS  */
+
+    #tabbrowser-tabs[orient="vertical"] {
+      & #newtab-button-container {
+        animation: zen-slide-in 0.2s ease-in-out !important;
+        margin-inline-end: var(--space-medium) */ !important;
+        flex-direction: column !important;
+      }
+    }
+
+    /* Pinned Tabs Container */
+    #tabbrowser-tabs[orient="vertical"] {
+      & #vertical-pinned-tabs-container {
+        gap: 6px !important;                      /* Vertical gap */
+        column-gap: 0px !important;               /* Horizontal gap */
+        margin-bottom: 12px !important;            /* Bottom distance to NTB */
+        max-height: 244px !important;
+        margin-top: 1px !important;               /* Margin from top */
+      }
+    }
+
+    /* Pinned tabs Height tweak */
+    #vertical-pinned-tabs-container .tab-background {
+        margin-block: var(--tab-block-margin) / 2 !important;
+    }
+
+    /* Tab Height tweak */  
+    @media (-moz-bool-pref: "zen.tabs.vertical") {
+      #tabbrowser-tabs {
+        --tab-block-margin: 3px !important;
+        }
+    }
+
+    .tab-stack .tab-background[selected="true"]:hover {
+      background: light-dark(hsl(from var(--zen-primary-color) h 40% 90%), hsl(from var(--zen-primary-color) h 65% 30%)) !important;
+    }
+    
+    @media (-moz-bool-pref: "zen.tabs.vertical") {
+      #navigator-toolbox:is(#navigator-toolbox[zen-user-hover="true"][zen-has-hover], #navigator-toolbox[zen-user-hover="true"]:focus-within, #navigator-toolbox[zen-user-hover="true"][movingtab], #navigator-toolbox[zen-user-hover="true"][flash-popup], #navigator-toolbox[zen-user-hover="true"][has-popup-menu], #navigator-toolbox[zen-user-hover="true"]:has([open="true"]:not(tab):not(#zen-sidepanel-button)), #navigator-toolbox[zen-expanded="true"]:not([zen-user-hover="true"])) {
+        & #tabbrowser-tabs {
+          & .tabbrowser-tab {
+            & .tab-background {
+              --border-radius-medium: 8px !important; /* Pinned Tab Rounded Corners */
+            }
+          }
+        }
+      }
+    }
+      
+    /* Pinned tab - Background color when Selected */
+    #vertical-pinned-tabs-container .tab-background[selected] {
+       background-color: light-dark(hsl(from var(--zen-primary-color) h 80% 90%), hsl(from var(--zen-primary-color) h 65% 30%)) !important;
+    }
+      
+    /* Pinned tab - Background color when Hovering  */
+    #vertical-pinned-tabs-container .tabbrowser-tab[pinned]:hover .tab-stack .tab-background {
+        background-color: light-dark(hsl(from var(--zen-primary-color) h 20% 90%), hsl(from var(--zen-primary-color) h 20%  30%)) !important;
+    }
+     #vertical-pinned-tabs-container .tabbrowser-tab[pinned][selected="true"]:hover .tab-stack .tab-background {
+      background-color: light-dark(hsl(from var(--zen-primary-color) h 70% 83%), hsl(from var(--zen-primary-color) h 80%  40%)) !important;
+    }
+    
+    /* Pinned Tabs - Background Color when unselected */
+    #vertical-pinned-tabs-container .tab-background:not(:hover):not([selected]):not([multiselected]) {
+        --zen-pinned-tabs-bgcolor: color-mix(in srgb, var(--zen-primary-color) 10%, transparent 90%) !important;
+        @media not (prefers-color-scheme: dark) {
+            --zen-pinned-tabs-bgcolor: color-mix(in srgb, var(--zen-colors-secondary) 50%, transparent 70%) !important;
+        }
+        background: var(--zen-pinned-tabs-bgcolor) !important;
+        backdrop-filter: blur(0px) !important;
+    }
+
+
+
+    /*  -------------------------------------------------------------------------------------------------------------------------------------
+    ZEN VERTICAL TABS SIDEBAR  */
+    
+    @media (-moz-bool-pref: "zen.tabs.vertical") {
+      #TabsToolbar > * {
+        padding-left: 0px !important;
+        padding-right: 0px !important;      
+        margin-right: -2px !important;      /* Tab Sidebar - Adjust right margin */
+      }
+    }
+
+    /* Selected Tab - Background color */
+    .tab-background[selected] {
+        background: light-dark(hsl(from var(--zen-primary-color) h 80% 90%), hsl(from var(--zen-primary-color) h 30% 30%)) !important;
+    } 
+    
+    /* Selected Tab - Background color on Hover */
+    .tabbrowser-tab[selected]:hover .tab-stack .tab-background {
+        background: light-dark(hsl(from var(--zen-primary-color) h 80% 85%), hsl(from var(--zen-primary-color) h 30% 40%)) !important;
+    }
+
+    /* Non-Selected Tab - Background color on Hover */
+    .tabbrowser-tab:hover .tab-stack .tab-background {
+        background: light-dark(hsl(from var(--zen-primary-color) h 90% 95%), hsl(from var(--zen-primary-color) h 20% 20%)) !important;
+    }
+      
+    /* Tab Close Button - Adjustments */
+    .tab-close-button {
+        margin-inline-end: calc(var(--inline-tab-padding) / -15) !important;
+        width: 24px !important;
+        height: 24px !important;
+        padding: 6px !important;
+    }
+    
+    /* ADJUST BOTTOM NEW TAB BUTTON POSITION AND SIZE 
+    #tabs-newtab-button, #new-tab-button {
+      margin-bottom: 8px !important;
+      padding-top: 0px !important;
+      padding-bottom: 0px !important;
+    } */
+    
+    @media (-moz-bool-pref: "zen.tabs.vertical") {
+      #tabbrowser-tabs {
+        & .tabbrowser-tab {
+          max-width: unset !important;
+          height: calc(var(--tab-min-height) + var(--tab-block-margin) * 2) !important;
+          min-height: calc(var(--tab-min-height) + var(--tab-block-margin) * 2) !important;
+        }
+      }
+    }
+
+    /* Tab Sidebar - Header buttons */
+    @media (-moz-bool-pref: "zen.tabs.vertical") {
+      #zen-sidebar-top-buttons {
+        & #zen-sidebar-top-buttons-customization-target {
+          & toolbarbutton {
+            /* padding: 0 var(--toolbarbutton-outer-padding) !important;
+            margin-top: -2px !important; */
+          }
+        }
+      }
+    }  
+ 
+    /* Corrige o alinhamento do texto das abas */
+    .tab-label-container {
+        #tabbrowser-tabs:not([secondarytext-unsupported]) & {
+            height: 2.7em;
+            margin-left: 3px !important;
+        }
+    }
+
+    /* Disable tab damn SHADOWS */
+    #tabbrowser-tabs .tabbrowser-tab .tab-background {
+        box-shadow: none !important;
+    }
+
+
+
+    /*  -------------------------------------------------------------------------------------------------------------------------------------
+    ZEN SIDEBAR  */
+
+    /* Zen Sidebar adjustments */
+    #zen-sidebar-web-panel {
+      border-radius: 6px !important;
+      margin-top: 1.5px !important;
+      margin-left: -3px !important;
+      margin-right: 2px !important;
+      box-shadow: none !important;;
+      border: 1px solid var(--zen-colors-border) !important;
+      
+      /* Future adjustments, if necessary*/
+      overflow: hidden;
+      background: var(--zen-colors-tertiary);
+      opacity: 0;
+      animation-delay: 0.1s;
+      flex-direction: column;
+      min-width: var(--zen-default-sidebar-width);
+      max-width: 720px;
+      min-height: var(--zen-default-sidebar-width);
+      width: calc(var(--zen-default-sidebar-width) + 200px);
+      pointer-events: all;
+      height: calc(100% - 20px);
+    }
+  
+    #zen-sidebar-panels-wrapper {
+      border-top-width: 1px !important;
+      border-bottom-width: 0px !important;
+    }
+
+    #zen-sidebar-web-panel-splitter {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+      width: 4px !important;
+      background: transparent;
+      border: none;
+      cursor: ew-resize;
+    }
+
+  
+
+    /*  -------------------------------------------------------------------------------------------------------------------------------------
+    VERTICAL TABS BOTTOM CONTROLS  */
+
+    /* Workspaces Selector */
+    #zen-workspaces-button {
+      &:not([as-button="true"]) {
+        --zen-workspaces-strip-background-color: color-mix(in srgb, var(--zen-colors-border) 50%, transparent 50%);
+        --toolbarbutton-hover-background: var(--toolbarbutton-hover-background) !important;
+        border-radius: var(--zen-button-border-radius) !important;
+        background: none !important;
+        padding: 5px !important;
+        appearance: unset !important;
+        height: fit-content;
+        gap: 3px !important;
+      }
+    }
+
+    @media (-moz-bool-pref: "zen.tabs.vertical") {
+      #navigator-toolbox:is(#navigator-toolbox[zen-user-hover="true"][zen-has-hover], #navigator-toolbox[zen-user-hover="true"]:focus-within, #navigator-toolbox[zen-user-hover="true"][movingtab], #navigator-toolbox[zen-user-hover="true"][flash-popup], #navigator-toolbox[zen-user-hover="true"][has-popup-menu], #navigator-toolbox[zen-user-hover="true"]:has([open="true"]:not(tab):not(#zen-sidepanel-button)), #navigator-toolbox[zen-expanded="true"]:not([zen-user-hover="true"])) {
+        & #zen-sidebar-icons-wrapper {
+          --toolbarbutton-inner-padding: var(--zen-toolbar-button-inner-padding) !important;
+          padding-bottom: 8px !important;
+        }
+      }
+    }
+  
+    @media (-moz-bool-pref: "zen.tabs.vertical") {
+        #navigator-toolbox:is(#navigator-toolbox[zen-user-hover="true"][zen-has-hover], #navigator-toolbox[zen-user-hover="true"]:focus-within, #navigator-toolbox[zen-user-hover="true"][movingtab], #navigator-toolbox[zen-user-hover="true"][flash-popup], #navigator-toolbox[zen-user-hover="true"][has-popup-menu], #navigator-toolbox[zen-user-hover="true"]:has([open="true"]:not(tab):not(#zen-sidepanel-button)), #navigator-toolbox[zen-expanded="true"]:not([zen-user-hover="true"])) {
+            & #zen-sidebar-icons-wrapper {
+              display: flex;
+              flex-direction: row;
+              justify-content: space-between;
+              padding-top: 10px !important;
+              margin-bottom: -5px !important;
+              width: 100%;
+              position: relative;
+              --toolbarbutton-inner-padding: var(--zen-toolbar-button-inner-padding) !important;
+            }
+        }
+    }
+
+
+
+    /*  -------------------------------------------------------------------------------------------------------------------------------------
+    URL BAR  */
+
+  
+    /* URL bar popup adjustments */
+    @media (-moz-bool-pref: "zen.tabs.vertical") {
+      @media (-moz-bool-pref: "zen.tabs.vertical") {
+        .urlbar-input {
+          --urlbar-container-height: 56px !important;
+        }
+      }
+    }
+
+    .urlbar-input {
+        text-align: left !important;
+    }
+  
+    #urlbar[breakout][breakout-extend] {
+        & > .urlbar-input-container {
+          height: 50px !important;
+          padding-block: calc((var(--urlbar-container-height) - var(--urlbar-height)) / 2 + var(--urlbar-container-padding));
+          padding-inline: calc(var(--urlbar-margin-inline) + var(--urlbar-container-padding));
+        }
+        z-index: 2;
+        position: fixed !important;
+        bottom: auto !important;
+        top: 25vh !important;
+        padding-left: 6px !important;
+        padding-right: 8px !important;
+        top: 0 !important;
+        left: 0 !important;
+        bottom: 0 !important;
+        right: 0 !important;
+        margin: auto !important; /* Center the popup */
+        max-width: 70vh !important;
+    }
+
+    #tracking-protection-icon-container {
+        visibility: hidden !important;
+    }
+      
+    /* URL Popup - Background */
+    &:after {
+        animation: fadeIn 0.02s ease-in !important;
+        content: "";
+        position: fixed;
+        pointer-events: none;
+        width: 100vw;
+        height: 100vh;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.3);
+        backdrop-filter: blur(0px) !important;
+        z-index: -1;
+    }
+
+    #urlbar {
+        --toolbarbutton-border-radius: 10px !important;
+        --urlbarView-separator-color: var(--zen-colors-border);
+        --urlbarView-hover-background: var(--toolbarbutton-hover-background);
+        --urlbarView-highlight-background: var(--toolbarbutton-hover-background);
+        border: 1px solid var(--zen-colors-border) !important;
+        border-radius: var(--toolbarbutton-border-radius);
+        overflow: hidden;
+        padding: 1px !important;
+        margin-top: 0px !important;
+    }
+  
+    .titlebar-spacer[type="post-tabs"] {
+        width: 40px;
+        display: flex !important;
+        margin: 0px !important;
+    }
+  
+    /* URL bar position fix */
+    #nav-bar {
+        position: relative;
+        padding-top: 3px !important;
+    }
+    
+    /* Window buttons fix */
+    .titlebar-buttonbox-container {
+      height: 110% !important;
+    }
+  
+    /* URL Bar Popup color when Dark Mode */
+    @media (prefers-color-scheme: dark) {
+        #urlbar:is([focused], [open]) > #urlbar-background, #searchbar:focus-within {
+          background: rgba(0,0,0,0.9) !important;
+        }
+    }
+
+    /* URL Bar color when Dark Mode */
+    @media (prefers-color-scheme: dark) {
+        #urlbar > #urlbar-background, #searchbar {
+          background: rgba(0,0,0,0.3) !important;
+        }
+    }
+
+
+
+    /*  -------------------------------------------------------------------------------------------------------------------------------------
+    OTHER FIXES  */
+
+    @media (-moz-bool-pref: "zen.tabs.vertical") {
+      #navigator-toolbox:is(#navigator-toolbox[zen-user-hover="true"][zen-has-hover], #navigator-toolbox[zen-user-hover="true"]:focus-within, #navigator-toolbox[zen-user-hover="true"][movingtab], #navigator-toolbox[zen-user-hover="true"][flash-popup], #navigator-toolbox[zen-user-hover="true"][has-popup-menu], #navigator-toolbox[zen-user-hover="true"]:has([open="true"]:not(tab):not(#zen-sidepanel-button)), #navigator-toolbox[zen-expanded="true"]:not([zen-user-hover="true"])) {
+        & #vertical-pinned-tabs-container:has(tab:not([hidden])) {
+          &::after {
+            bottom: -6px;
+            content: '';
+            display: block;
+            height: 0px !important;
+            background: none !important;
+            width: 99%;
+            left: 50%;
+            transform: translateX(-50%);
+            position: absolute;
+          }
+        }
+      }
+    }
+
+    @media (-moz-bool-pref: "zen.view.sidebar-expanded.on-hover") and (not ((-moz-bool-pref: "zen.view.compact") and (-moz-bool-pref: "zen.view.compact.hide-tabbar"))) {
+        #TabsToolbar {
+          padding-top: 4px !important;
+          z-index: 1;
+          background-repeat: no-repeat !important;
+          background-position: center center !important;
+          background-size: cover !important;
+          border-top: 1px solid transparent;
+          height: 100%;
+          border-top-right-radius: var(--zen-border-radius);
+          width: var(--zen-toolbox-max-width);
+        }
+      }
+    
+    /* Popup Window Shadow */
+    menupopup, panel {
+      @media (-moz-platform: linux) or (-moz-platform: windows) {
+        & {
+          --panel-shadow-margin: 1px !important;
+        }
+      }
+    }
+
+
+
+    /*  -------------------------------------------------------------------------------------------------------------------------------------
+    INCORPORATED ZEN MODS - Credits to the original creators  */
+
+    /* Old Navigation Buttons - by Osmagtor - v1.0.0 */
+    #back-button {
+      list-style-image: url("chrome://browser/skin/back.svg") !important;
+    }
+    #forward-button {
+      list-style-image: url("chrome://browser/skin/forward.svg") !important;
+    }
+    #reload-button {
+      list-style-image: url("chrome://global/skin/icons/reload.svg") !important;
+    }
+
+
+    /* Only Close on Hover - by p-sw - v1.0.0 */
+    #tabbrowser-tabs .tabbrowser-tab:not([pinned]):is([visuallyselected]):not(:hover) .tab-close-button {
+      display: none !important;
+    }
+
+    
+    /* No scrollbar in sidebar - by mally8 - v1.0.2 */
+    scrollbox:nth-child(5) {
+      scrollbar-width: none !important;
+    }
+    
+
+    /* Colored container tab - by ocean-mars - v1.0.0 */
+    .tab-context-line {
+      display: none !important;
+    }
+    #tabbrowser-tabs { 
+      & .tabbrowser-tab { 
+        &[selected] .tab-background { 
+          border: 2px solid var(--identity-icon-color) !important; 
+          opacity: 0.8 !important;
+        }
+      }
+    }
+    
+
+    /* Cleaner Extension Menu - by */
+    #unified-extensions-description {
+      display: none !important;
+    }
+    #unified-extensions-panel #unified-extensions-view {
+        width: 100% !important;  /*  For firefox v115.x */
+    }
+    #unified-extensions-view{
+        --uei-icon-size: 15px; /*  Change icon size */
+        --firefoxcss-number-of-extensions-in-a-row: 3; /*  Increase to the number of icons you want in one row */
+    }
+    #unified-extensions-view .panel-header,
+    #unified-extensions-view .panel-header + toolbarseparator,
+    #unified-extensions-view .panel-subview-body + toolbarseparator,
+    #unified-extensions-view #unified-extensions-manage-extensions,
+    #unified-extensions-view .unified-extensions-item-menu-button.subviewbutton,
+    #unified-extensions-view .unified-extensions-item-action-button .unified-extensions-item-contents {
+        display: none !important;
+    }
+    #unified-extensions-view .panel-subview-body {
+        padding: 4px !important;
+        padding-bottom: 8px !important;
+    }
+    #unified-extensions-view .unified-extensions-item .unified-extensions-item-icon, 
+    #unified-extensions-view .unified-extensions-item .toolbarbutton-badge-stack {
+        margin-inline: -10px !important;
+        padding: 5px !important;
+    }
+    #unified-extensions-view #overflowed-extensions-list,
+    #unified-extensions-view #unified-extensions-area,
+    #unified-extensions-view .unified-extensions-list {
+        display: grid !important;
+        grid-template-columns: repeat(var(--firefoxcss-number-of-extensions-in-a-row),auto);
+        justify-items: center !important;
+        align-items: center !important;
+    }
+    #unified-extensions-view .unified-extensions-list .unified-extensions-item,
+    #unified-extensions-view .unified-extensions-list{
+         max-width: max-content;
+    }
+    #unified-extensions-view {
+        & .unified-extensions-item {
+            border-radius: var(--arrowpanel-menuitem-border-radius);
+        }
+    }
+
+
+    /* Dim Unloaded Tabs - by Felkazz */
+    .tabbrowser-tab[pending="true"] {
+        filter: grayscale(1);
+        opacity: 0.5;
+    }
+
+
+    /* Hide Extension Name from URL Bar - by ch4og - v1.0.0 */
+    #urlbar #identity-box.extensionPage #identity-icon-label {
+        display: none !important;
+    }
+
+
